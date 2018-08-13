@@ -7,9 +7,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998) 
 
 ## Articles
-- [DARs, NFTs, and the New ERC-721] (https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
-- [How will NFTs change games?0(https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
-- [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769 by [Billy Rennekamp](https://medium.com/@billyrennekamp)
+- [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
+- [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
+- [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
 
 ### Articles (Extended)
