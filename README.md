@@ -17,7 +17,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - CryptoCrystal
 - CryptoCelebrities
 - Cryptogs
-- Galleass - https://austingriffith.com/portfolio/galleass/
+- [Galleass](https://austingriffith.com/portfolio/galleass/)
 - DigitalArtChain
 - PandaEarth
 - John Orion Young
