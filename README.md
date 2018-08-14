@@ -11,6 +11,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
+- [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d) by [Nick Mudge](https://hackernoon.com/@mudgen)
 
 ### Articles (Extended)
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
@@ -43,6 +44,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - MakersPlace
 - PandaEarth
 - SuperRare
+- [Zombie Battle Grounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
 ## Marketplaces
 - [OpenSea.io](https://opensea.io/)
