@@ -6,6 +6,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [EIP-998: Composable Non-Fungible Token Standard](https://github.com/ethereum/EIPs/issues/998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998) 
 
+## Primer
+- [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
+
 ## Articles
 - [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
