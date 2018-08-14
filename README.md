@@ -51,7 +51,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
 
-## Marketplaces
+## NFT Marketplaces
 - [OpenSea.io](https://opensea.io/)
 - [RareBits.io](http://rarebits.io/)
 
