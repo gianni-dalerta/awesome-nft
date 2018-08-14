@@ -17,30 +17,32 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## Games
 - CryptoKitties
-- Decentraland
+
 - Crypto Space Commander
-- CryptoStrikers
-- Eth.Town
-- CryptoBots
-- Cryptovoxels
-- Mythereum
-- MakersPlace
 - CryptoArte
-- CryptoFighters
-- CryptoMasterpieces
-- CryptoCrystal
+- CryptoBots
 - CryptoCelebrities
+- CryptoCrystal
 - Cryptogs
-- [Galleass](https://austingriffith.com/portfolio/galleass/)
+- CryptoFighters
+- CryptoStrikers
+- Cryptovoxels
+- CryptoMasterpieces
+- Decentraland
 - DigitalArtChain
-- PandaEarth
-- John Orion Young
+- Eth.Town
 - Etheremon
-- SuperRare
-- Known Origin
+- [Galleass](https://austingriffith.com/portfolio/galleass/)
 - Gizer
+- [Gods Unchained](https://t.co/UmGG9FzqQB)
 - HiPrecious
 - HyperDragons
+- John Orion Young
+- Known Origin
+- Mythereum
+- MakersPlace
+- PandaEarth
+- SuperRare
 
 ## Marketplaces
 - [OpenSea.io](https://opensea.io/)
