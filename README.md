@@ -50,6 +50,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [OpenSea.io](https://opensea.io/)
 - [RareBits.io](http://rarebits.io/)
 
+## Generators
+- [Mokens](https://mokens.io/)
+
 ## Wallets
 - [Toshi](http://www.toshi.org/)
 
