@@ -49,7 +49,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Neon District](https://twitter.com/neondistrictRPG)
 - PandaEarth
 - SuperRare
-- [Zombie Battle Grounds](https://loom.games/) by [Loom Networks](https://loomx.io)
+- [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
