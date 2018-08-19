@@ -57,6 +57,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## NFT Marketplaces
 - [OpenSea.io](https://opensea.io/)
 - [RareBits.io](http://rarebits.io/)
+- [Emoon](https://www.emoon.io/)
 
 ## NFT Generators
 - [Mokens](https://mokens.io/)
