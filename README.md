@@ -20,37 +20,42 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
 
 ## NFT Games
-- CryptoKitties
-
-- Crypto Space Commander
-- CryptoArte
-- CryptoBots
-- CryptoCelebrities
-- CryptoCrystal
-- Cryptogs
-- CryptoFighters
+- [CryptoKitties](https://www.cryptokitties.co/)
+- [Crypto Space Commander](https://www.csc-game.com/)
+- [CryptoArte](https://www.cryptoarte.io/)
+- [CryptoBots](https://cryptobots.me/)
+- [Cryptogs](https://cryptogs.io/)
+- [CryptoFighters](https://cryptofighters.io/)
 - [CryptoRome](https://www.cryptorome.io/)
-- CryptoStrikers
-- Cryptovoxels
-- CryptoMasterpieces
-- Decentraland
-- DigitalArtChain
-- Eth.Town
-- Etheremon
+- [Cryptovoxels](https://www.cryptovoxels.com/)
+- [CryptoMasterpieces](https://www.cryptomasterpieces.com/) Site is dead
+- [Decentraland](https://decentraland.org/)
+- [DigitalArtChain](http://digitalartchain.com/)
+- [Eth.Town](https://eth.town/)
+- [Etheremon](https://www.etheremon.com/)
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
-- Gizer
+- [Gizer](https://gizer.io/)
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
-- HiPrecious
-- HyperDragons
-- John Orion Young
-- Known Origin
-- Mythereum
-- MakersPlace
+- [HiPrecious](http://www.hiprecious.com/)
+- [HyperDragons](https://hyperdragons.alfakingdom.com/)
+- [John Orion Young](https://www.johnorionyoung.com/)
+- [Known Origin](http://www.knownorigin.io/)
+- [Mythereum](https://www.mythereum.io/)
+- [MakersPlace](https://makersplace.com/)
 - [Neon District](https://twitter.com/neondistrictRPG)
-- PandaEarth
-- SuperRare
+- [PandaEarth](https://panda.earth/)
+- [SuperRare](https://superrare.co/)
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
+
+## NFT Collectables
+- [CryptoKitties](https://www.cryptokitties.co/)
+- [Crypto Celebrities](https://cryptocelebrities.co/)
+- [CryptoCrystal](https://cryptocrystal.io/)
+- [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+- [PlayerTokens](https://playertokens.co/)
+- [CryptoStrikers](https://www.cryptostrikers.com/)
+- [EtherTulips](https://ethertulips.com/)
 
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
