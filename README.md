@@ -38,7 +38,6 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
 - [HiPrecious](http://www.hiprecious.com/)
 - [HyperDragons](https://hyperdragons.alfakingdom.com/)
-- [John Orion Young](https://www.johnorionyoung.com/)
 - [Known Origin](http://www.knownorigin.io/)
 - [Mythereum](https://www.mythereum.io/)
 - [MakersPlace](https://makersplace.com/)
@@ -47,6 +46,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [SuperRare](https://superrare.co/)
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
+
+## NFT Art
+- [John Orion Young](https://www.johnorionyoung.com/)
 
 ## NFT Collectables
 - [CryptoKitties](https://www.cryptokitties.co/)
