@@ -58,6 +58,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
+## Publications
+- [Blockchain Gamer](https://www.blockchaingamer.biz/)
+
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
 
