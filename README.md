@@ -1,3 +1,5 @@
+Just type [non-fungible-token.com](http://non-fungible-token.com) to go here. Check out my [blog](https://medium.com/@giannidalerta) and follow me on [Twitter](https://twitter.com/GianniDalerta).
+
 # Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
 
@@ -9,7 +11,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## Primer
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
 
-## Articles
+## NFT Articles
 - [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
@@ -22,15 +24,12 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## NFT Games
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [Crypto Space Commander](https://www.csc-game.com/)
-- [CryptoArte](https://www.cryptoarte.io/)
 - [CryptoBots](https://cryptobots.me/)
 - [Cryptogs](https://cryptogs.io/)
 - [CryptoFighters](https://cryptofighters.io/)
 - [CryptoRome](https://www.cryptorome.io/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
-- [CryptoMasterpieces](https://www.cryptomasterpieces.com/) Site is dead
 - [Decentraland](https://decentraland.org/)
-- [DigitalArtChain](http://digitalartchain.com/)
 - [Eth.Town](https://eth.town/)
 - [Etheremon](https://www.etheremon.com/)
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
@@ -48,7 +47,12 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
 ## NFT Art
+- [CryptoArte](https://www.cryptoarte.io/)
+- [CryptoMasterpieces](https://www.cryptomasterpieces.com/) Site is dead
+- [DigitalArtChain](http://digitalartchain.com/)
 - [John Orion Young](https://www.johnorionyoung.com/)
+- [Digital Objects](https://digitalobjects.art/) by [Ryan Duffy](https://twitter.com/vidmeduffy)
+- [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 
 ## NFT Collectables
 - [CryptoKitties](https://www.cryptokitties.co/)
