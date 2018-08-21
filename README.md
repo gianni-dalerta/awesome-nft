@@ -7,6 +7,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [ERC-721: Non-fungible Token Standard](https://github.com/ethereum/eips/issues/721)
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
+- [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
 
 ## NFT Commmunity
 
@@ -36,6 +37,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [CryptoBots](https://cryptobots.me/)
 - [Cryptogs](https://cryptogs.io/)
 - [CryptoFighters](https://cryptofighters.io/)
+- [CryptoFights](https://cryptofights.io/)
 - [CryptoRome](https://www.cryptorome.io/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Decentraland](https://decentraland.org/)
@@ -52,8 +54,12 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Neon District](https://twitter.com/neondistrictRPG)
 - [PandaEarth](https://panda.earth/)
 - [SuperRare](https://superrare.co/)
+- [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
+
+## NFT Platforms
+- [Enjin Coin](https://enjincoin.io/)
 
 ## NFT Art
 - [CryptoArte](https://www.cryptoarte.io/)
