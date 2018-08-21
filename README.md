@@ -6,7 +6,15 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## Ethereum
 - [ERC-721: Non-fungible Token Standard](https://github.com/ethereum/eips/issues/721)
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
-- [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998) 
+- [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
+
+## NFT Commmunity
+
+### Discord 
+- [NFTy Magicians](https://discord.gg/gNSWat)
+
+### Twitter List
+- [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
 ## Primer
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
@@ -83,13 +91,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## NFT Wallets
 - [Toshi](http://www.toshi.org/)
 
-## NFT Commmunity
 
-### Discord 
-- [NFTy Magicians](https://discord.gg/gNSWat)
-
-### Twitter List
-- [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
