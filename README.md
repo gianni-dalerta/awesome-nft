@@ -30,7 +30,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
 
 ## NFT Games
-- [BananoQuest](https://bananoquest.com/)
+- [BananoQuest](https://bananoquest.com/) by [Pocket Network](https://www.pokt.network/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [Crypto Space Commander](https://www.csc-game.com/)
 - [CryptoBots](https://cryptobots.me/)
