@@ -32,6 +32,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## NFT Games
 - [BananoQuest](https://bananoquest.com/) by [Pocket Network](https://www.pokt.network/)
+- [Cryptic Conjure](https://www.crypticconjure.com/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [Crypto Space Commander](https://www.csc-game.com/)
 - [CryptoBots](https://cryptobots.me/)
@@ -90,6 +91,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Emoon](https://www.emoon.io/)
 
 ## NFT Generators
+- [ethmoji](https://ethmoji.io/)
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
 
@@ -100,8 +102,6 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## NFT Wallets
 - [Toshi](http://www.toshi.org/)
-
-
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
