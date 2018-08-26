@@ -78,6 +78,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Crypto Celebrities](https://cryptocelebrities.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+- [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
 - [PlayerTokens](https://playertokens.co/)
 - [CryptoStrikers](https://www.cryptostrikers.com/)
 - [EtherTulips](https://ethertulips.com/)
