@@ -42,6 +42,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [CryptoRome](https://www.cryptorome.io/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Decentraland](https://decentraland.org/)
+- [Ember Sword](https://socouch.com/)
 - [Eth.Town](https://eth.town/)
 - [Etheremon](https://www.etheremon.com/)
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
