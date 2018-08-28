@@ -20,12 +20,21 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ## Primer
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
 
+## Publications
+
+### Newsletters
+- [NFTY News](https://medium.com/nfty-news) by [Brian Flynn](https://medium.com/@brianubiquik)
+
+### Gaming
+- [Blockchain Gamer](https://www.blockchaingamer.biz/)
+
 ## NFT Articles
 - [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
 - [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d) by [Nick Mudge](https://hackernoon.com/@mudgen)
+- [Crafting New Value with Existing Tokens](https://medium.com/@brianubiquik/crafting-new-value-with-existing-tokens-de95fe838fea) by [Brian Flynn](https://medium.com/@brianubiquik)
 
 ### Articles (Extended)
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
@@ -60,8 +69,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
-## Publications
-- [Blockchain Gamer](https://www.blockchaingamer.biz/)
+
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
