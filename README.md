@@ -64,19 +64,18 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [MakersPlace](https://makersplace.com/)
 - [Neon District](https://twitter.com/neondistrictRPG)
 - [PandaEarth](https://panda.earth/)
-- [SuperRare](https://superrare.co/)
 - [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
-
-
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
 
 ## NFT Art
 - [CryptoArte](https://www.cryptoarte.io/)
+- [CryptoCanvas](https://rinkeby.cryptocanvas.art/)
 - [CryptoMasterpieces](https://www.cryptomasterpieces.com/) Site is dead
+- [Dada NYC](https://dada.nyc/)
 - [DigitalArtChain](http://digitalartchain.com/)
 - [John Orion Young](https://www.johnorionyoung.com/)
 - [Digital Objects](https://digitalobjects.art/) by [Ryan Duffy](https://twitter.com/vidmeduffy)
@@ -87,7 +86,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Crypto Celebrities](https://cryptocelebrities.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+- [ECOMI](https://www.ecomi.com/)
 - [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
+- [OPSkins](https://opskins.com/)
 - [PlayerTokens](https://playertokens.co/)
 - [CryptoStrikers](https://www.cryptostrikers.com/)
 - [EtherTulips](https://ethertulips.com/)
@@ -96,14 +97,26 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Centrifuge](http://www.centrifuge.io/)
 
 ## NFT Marketplaces
-- [OpenSea.io](https://opensea.io/)
-- [RareBits.io](http://rarebits.io/)
+- [Atomic Bazaar](https://www.atomicbazaar.io/)
 - [Emoon](https://www.emoon.io/)
+- [OpenSea.io](https://opensea.io/)
+- [Portion](http://portion.io/)
+- [RareBits.io](http://rarebits.io/)
+- [SuperRare](https://superrare.co/)
+
+## Marketplace my not have NFTs
+- [Wyvern Exchange](https://exchange.projectwyvern.com/)
 
 ## NFT Generators
 - [ethmoji](https://ethmoji.io/)
+- [Digital Art chain](http://digitalartchain.com/)
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
+
+## Digital Art Generators may not have NFTs
+- [Archetype](http://archetype.mx/)
+- [Monograph](https://monegraph.com/)
+- [R.A.R.E Digital Art Network](https://www.rareart.io/)
 
 ## Composable DApps
 - [Mokens](https://mokens.io/)
