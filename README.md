@@ -5,7 +5,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## Ethereum
 - [ERC-721: Non-fungible Token Standard](https://github.com/ethereum/eips/issues/721)
-- [ERC-721x: Extends ERC721 that adds support for multi-fungible tokens and batch transfers, fully backward-compatible](https://github.com/loomnetwork/erc721x)
+- [ERC-721x: Extends ERC721 and adds support for multi-fungible tokens and batch transfers, fully backward-compatible](https://github.com/loomnetwork/erc721x)
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
 - [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
