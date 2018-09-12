@@ -29,7 +29,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ### Gaming
 - [Blockchain Gamer](https://www.blockchaingamer.biz/)
 
-## NFT Articles
+### NFT Articles
 - [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
@@ -38,8 +38,16 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Crafting New Value with Existing Tokens](https://medium.com/@brianubiquik/crafting-new-value-with-existing-tokens-de95fe838fea) by [Brian Flynn](https://medium.com/@brianubiquik)
 - [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io)
 
-### Articles (Extended)
+### Articles (Misc)
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
+
+## Audio
+
+### NFT Podcasts
+- [Digitally Rare](https://digitallyrare.podbean.com/) by [Matt Condon](https://twitter.com/mattgcondon) & [Jonathan Mann](https://twitter.com/songadaymann)
+
+### Podcast Episodes
+- [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 
 ## NFT Games
 - [BananoQuest](https://bananoquest.com/) by [Pocket Network](https://www.pokt.network/)
