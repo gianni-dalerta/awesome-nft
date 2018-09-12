@@ -5,6 +5,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## Ethereum
 - [ERC-721: Non-fungible Token Standard](https://github.com/ethereum/eips/issues/721)
+- [ERC-721x: Extends ERC721 that adds support for multi-fungible tokens and batch transfers, fully backward-compatible](https://github.com/loomnetwork/erc721x)
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
 - [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
@@ -35,6 +36,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
 - [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d) by [Nick Mudge](https://hackernoon.com/@mudgen)
 - [Crafting New Value with Existing Tokens](https://medium.com/@brianubiquik/crafting-new-value-with-existing-tokens-de95fe838fea) by [Brian Flynn](https://medium.com/@brianubiquik)
+- [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io)
 
 ### Articles (Extended)
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
