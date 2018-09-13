@@ -15,6 +15,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ### Discord 
 - [NFTy Magicians](https://discord.gg/gNSWat)
 
+### NFT Enabled Communities
+- [Tok'n'Talk](https://tokntalk.club)
+
 ### Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
