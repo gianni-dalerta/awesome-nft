@@ -1,7 +1,42 @@
 Just type [non-fungible-token.com](http://non-fungible-token.com) to go here. Follow me on [Twitter](https://twitter.com/GianniDalerta).
 
+
+
 # Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software
+
+Table of contents
+=================
+
+<!--ts-->
+* [Ethereum](#ethereum)
+* [NFT Commmunity](#nft-commmunity)
+  * [Discord](#discord)
+  * [NFT Enabled Communities](#nft-enabled-communities)
+  * [Twitter List](#twitter-list)
+* [Publications](#publications)
+  * [Newsletters](#newsletters)
+  * [Gaming](#gaming)
+  * [NFT Articles](#nft-articles)
+  * [Articles Misc](#articles-misc)
+* [Audio](#audio)
+  * [NFT Podcasts](#nft-podcasts)
+  * [Podcast Episodes](#podcast-episodes)
+* [NFT Games](#nft-games)
+* [NFT Platforms](#nft-platforms)
+* [Platforms](#platforms)
+* [NFT Art](#nft-art)
+* [NFT Collectables](#nft-collectables)
+* [NFT Business](#nft-business)
+* [NFT Marketplaces](#nft-marketplaces)
+* [Marketplaces](#marketplaces)
+* [Generators](#generators)
+  * [NFT Generators](#nft-generators)
+  * [Digital Art Generators](#digital-art-generators)
+* [Composables](#composables)
+* [NFT Wallets](#nft-wallets)
+* [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
+<!--te-->
 
 ## Ethereum
 - [ERC-721: Non-fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
@@ -21,9 +56,6 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 ### Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
-## Primer
-- [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
-
 ## Publications
 
 ### Newsletters
@@ -33,6 +65,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Blockchain Gamer](https://www.blockchaingamer.biz/)
 
 ### NFT Articles
+- [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
 - [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
 - [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
@@ -84,9 +117,9 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
+- [Horizon Games](https://horizongames.net/)
 
 ## Platforms
-- [Horizon Games](https://horizongames.net/)
 - [Loom Networks](https://loomx.io)
 
 ## NFT Art
@@ -122,27 +155,31 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [RareBits.io](http://rarebits.io/)
 - [SuperRare](https://superrare.co/)
 
-## Marketplace my not have NFTs
+## Marketplaces
 - [Wyvern Exchange](https://exchange.projectwyvern.com/)
 
-## NFT Generators
+## Generators
+
+### NFT Generators
 - [ethmoji](https://ethmoji.io/)
 - [Digital Art chain](http://digitalartchain.com/)
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
 
-## Digital Art Generators may not have NFTs
+### Digital Art Generators
 - [Archetype](http://archetype.mx/)
 - [Monograph](https://monegraph.com/)
 - [R.A.R.E Digital Art Network](https://www.rareart.io/)
 
-## Composable DApps
+## Composables
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
 - [CryptoRome](https://www.cryptorome.io/)
 
 ## NFT Wallets
-- [Toshi](http://www.toshi.org/)
+- [Enjin Wallet](https://enjinwallet.io/)
+- [Coinbase (Formally Toshi)](http://www.toshi.org/)
+- [Trust Wallet](https://trustwalletapp.com/)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
