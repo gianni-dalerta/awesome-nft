@@ -76,6 +76,7 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 - [Mythereum](https://www.mythereum.io/)
 - [MakersPlace](https://makersplace.com/)
 - [Neon District](https://twitter.com/neondistrictRPG)
+- [SkyWeaver](https://skyweaver.net/)
 - [PandaEarth](https://panda.earth/)
 - [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
@@ -83,6 +84,10 @@ A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
+
+## Platforms
+- [Horizon Games](https://horizongames.net/)
+- [Loom Networks](https://loomx.io)
 
 ## NFT Art
 - [CryptoArte](https://www.cryptoarte.io/)
