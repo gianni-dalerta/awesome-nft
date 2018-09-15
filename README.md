@@ -178,6 +178,7 @@ Table of contents
 
 ## NFT Wallets
 - [Enjin Wallet](https://enjinwallet.io/)
+- [Cipher Browser](https://www.cipherbrowser.com/)
 - [Coinbase (Formally Toshi)](http://www.toshi.org/)
 - [Trust Wallet](https://trustwalletapp.com/)
 
