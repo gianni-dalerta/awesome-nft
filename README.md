@@ -61,8 +61,12 @@ Table of contents
 ### Newsletters
 - [NFTY News](https://medium.com/nfty-news) by [Brian Flynn](https://medium.com/@brianubiquik)
 
+### News
+- [The Crypto Collectors](https://thecryptocollectors.com/)
+
 ### Gaming
 - [Blockchain Gamer](https://www.blockchaingamer.biz/)
+- [Crypto Bit Games](https://cryptobitgames.com/)
 
 ### NFT Articles
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
@@ -103,6 +107,7 @@ Table of contents
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
 - [Gizer](https://gizer.io/)
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
+- [Hedgie](https://www.hedgie.io/)
 - [HiPrecious](http://www.hiprecious.com/)
 - [HyperDragons](https://hyperdragons.alfakingdom.com/)
 - [Known Origin](http://www.knownorigin.io/)
@@ -137,6 +142,8 @@ Table of contents
 - [Crypto Celebrities](https://cryptocelebrities.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
+- [Hashletes](https://hashletes.com/)
+- [Hedgie](https://www.hedgie.io/)
 - [ECOMI](https://www.ecomi.com/)
 - [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
 - [OPSkins](https://opskins.com/)
@@ -177,10 +184,13 @@ Table of contents
 - [CryptoRome](https://www.cryptorome.io/)
 
 ## NFT Wallets
+- [Dot Wallet](http://www.mydotwallet.com/)
 - [Enjin Wallet](https://enjinwallet.io/)
 - [Cipher Browser](https://www.cipherbrowser.com/)
 - [Coinbase (Formally Toshi)](http://www.toshi.org/)
+- [Lumi Wallet](https://lumiwallet.com/)
 - [Trust Wallet](https://trustwalletapp.com/)
+- [Vault Wallet](https://vault.io/)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
