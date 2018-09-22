@@ -126,6 +126,7 @@ Table of contents
 - [Horizon Games](https://horizongames.net/)
 
 ## Platforms
+- [Hoard](https://www.hoard.exchange/)
 - [Loom Networks](https://loomx.io)
 
 ## NFT Art
