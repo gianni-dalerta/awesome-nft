@@ -100,6 +100,7 @@ Table of contents
 - [Cryptogs](https://cryptogs.io/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [CryptoRome](https://www.cryptorome.io/)
+- [CryptoTakeovers](https://cryptotakeovers.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Decentraland](https://decentraland.org/)
 - [Ember Sword](https://socouch.com/)
