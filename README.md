@@ -47,7 +47,7 @@ Table of contents
 
 ## NFT Commmunity
 
-### Discord 
+### Discord
 - [NFTy Magicians](https://discord.gg/gNSWat)
 
 ### NFT Enabled Communities
@@ -113,8 +113,9 @@ Table of contents
 - [HiPrecious](http://www.hiprecious.com/)
 - [HyperDragons](https://hyperdragons.alfakingdom.com/)
 - [Known Origin](http://www.knownorigin.io/)
-- [Mythereum](https://www.mythereum.io/)
 - [MakersPlace](https://makersplace.com/)
+- [Mythereum](https://www.mythereum.io/)
+- [My Crypto Heros](https://www.mycryptoheroes.net/)
 - [Neon District](https://twitter.com/neondistrictRPG)
 - [SkyWeaver](https://skyweaver.net/)
 - [PandaEarth](https://panda.earth/)
