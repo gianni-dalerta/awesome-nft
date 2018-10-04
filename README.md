@@ -90,7 +90,9 @@ Table of contents
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 
 ## NFT Games
+- [00xuniverse](https://0xuniverse.com/)
 - [BananoQuest](https://bananoquest.com/) by [Pocket Network](https://www.pokt.network/)
+- [Chibi CryptoFighters](https://chibifighters.io)
 - [Cryptic Conjure](https://www.crypticconjure.com/)
 - [Crypto Assault](https://cryptoassault.io/)
 - [Crypto Space Commander](https://www.csc-game.com/)
@@ -100,12 +102,14 @@ Table of contents
 - [Cryptogs](https://cryptogs.io/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [CryptoRome](https://www.cryptorome.io/)
+- [CryptoSaga](https://cryptosaga.io)
 - [CryptoTakeovers](https://cryptotakeovers.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
 - [Decentraland](https://decentraland.org/)
 - [Ember Sword](https://socouch.com/)
 - [Eth.Town](https://eth.town/)
 - [Etheremon](https://www.etheremon.com/)
+- [Ether Kingdoms](https://wax.io/)
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
 - [Gizer](https://gizer.io/)
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
@@ -165,6 +169,7 @@ Table of contents
 - [Portion](http://portion.io/)
 - [RareBits.io](http://rarebits.io/)
 - [SuperRare](https://superrare.co/)
+- [Wax](https://wax.io/)
 
 ## Marketplaces
 - [Wyvern Exchange](https://exchange.projectwyvern.com/)
