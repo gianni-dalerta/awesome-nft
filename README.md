@@ -125,6 +125,7 @@ Table of contents
 - [PandaEarth](https://panda.earth/)
 - [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
+- [World of Ether](https://worldofether.com/)
 - [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
 ## NFT Platforms
