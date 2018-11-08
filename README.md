@@ -56,6 +56,9 @@ Table of contents
 ### Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
+### Associations
+- [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
+
 ## Publications
 
 ### Newsletters
@@ -77,6 +80,7 @@ Table of contents
 - [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d) by [Nick Mudge](https://hackernoon.com/@mudgen)
 - [Crafting New Value with Existing Tokens](https://medium.com/@brianubiquik/crafting-new-value-with-existing-tokens-de95fe838fea) by [Brian Flynn](https://medium.com/@brianubiquik)
 - [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io)
+- [The Future of Virtual Assets: Introducing the Fractional NFT](https://hackernoon.com/the-future-of-virtual-assets-introducing-the-fractional-nft-84c218da73c9) by [Marc Howard](https://medium.com/@marcbegins) and [Gauthier Zuppinger](https://medium.com/@gauthier_97697)
 
 ### Articles (Misc)
 - [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
