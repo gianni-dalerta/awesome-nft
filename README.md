@@ -135,6 +135,7 @@ Table of contents
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
+- [0xcert](https://0xcert.org/)
 
 ## Platforms
 - [Hoard](https://www.hoard.exchange/)
