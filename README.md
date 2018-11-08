@@ -181,6 +181,9 @@ Table of contents
 ## Marketplaces
 - [Wyvern Exchange](https://exchange.projectwyvern.com/)
 
+## Discovery
+- [NonFungible](https://nonfungible.com/)
+
 ## Generators
 
 ### NFT Generators
