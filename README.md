@@ -109,6 +109,7 @@ Table of contents
 - [CryptoSaga](https://cryptosaga.io)
 - [CryptoTakeovers](https://cryptotakeovers.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
+- [DappCaps](https://qwoyn.io/)
 - [Decentraland](https://decentraland.org/)
 - [Ember Sword](https://socouch.com/)
 - [Eth.Town](https://eth.town/)
