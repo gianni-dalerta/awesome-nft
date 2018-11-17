@@ -162,6 +162,7 @@ Table of contents
 - [Hashletes](https://hashletes.com/)
 - [Hedgie](https://www.hedgie.io/)
 - [ECOMI](https://www.ecomi.com/)
+- [Kudos](https://gitcoin.co/kudos/) by [Gitcoin](https://gitcoin.co/)
 - [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
 - [OPSkins](https://opskins.com/)
 - [PlayerTokens](https://playertokens.co/)
