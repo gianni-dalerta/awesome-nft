@@ -29,6 +29,7 @@ Table of contents
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
 * [NFT Marketplaces](#nft-marketplaces)
+* [NFT Philanthropy](#nft-philanthropy)
 * [Marketplaces](#marketplaces)
 * [Generators](#generators)
   * [NFT Generators](#nft-generators)
@@ -153,6 +154,7 @@ Table of contents
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 
 ## NFT Collectables
+- [CryptoCorals](https://cryptocorals.co/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [Crypto Celebrities](https://cryptocelebrities.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
@@ -178,6 +180,9 @@ Table of contents
 - [RareBits.io](http://rarebits.io/)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
+
+## NFT Philanthropy
+- [CryptoCorals](https://cryptocorals.co/)
 
 ## Marketplaces
 - [Wyvern Exchange](https://exchange.projectwyvern.com/)
