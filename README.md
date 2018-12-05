@@ -172,6 +172,7 @@ Table of contents
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
+- [Nifty Gateway](https://niftygateway.com/#/home)
 
 ## NFT Marketplaces
 - [Atomic Bazaar](https://www.atomicbazaar.io/)
