@@ -218,6 +218,7 @@ Table of contents
 - [Lumi Wallet](https://lumiwallet.com/)
 - [Trust Wallet](https://trustwalletapp.com/)
 - [Vault Wallet](https://vault.io/)
+- [DexWallet](https://www.dexwallet.io/)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
