@@ -210,14 +210,12 @@ Table of contents
 - [CryptoRome](https://www.cryptorome.io/)
 
 ## NFT Wallets
-- [Dot Wallet](http://www.mydotwallet.com/)
+- [Blockto](https://blocto.portto.io/)
 - [Enjin Wallet](https://enjinwallet.io/)
-- [Cipher Browser](https://www.cipherbrowser.com/)
-- [Coinbase (Formally Toshi)](http://www.toshi.org/)
 - [Lumi Wallet](https://lumiwallet.com/)
 - [Trust Wallet](https://trustwalletapp.com/)
-- [Vault Wallet](https://vault.io/)
 - [DexWallet](https://www.dexwallet.io/)
+- [CoinBase Wallet](https://wallet.coinbase.com/)
 
 ## Framework, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
