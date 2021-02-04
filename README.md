@@ -71,8 +71,6 @@ Table of contents
 
 ### NFT Articles
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
-- [DARs, NFTs, and the New ERC-721](https://blog.decentraland.org/dars-nfts-and-the-new-erc-721-132a705eab42) by [Esteban Ordano](https://blog.decentraland.org/@eordano)
-- [How will NFTs change games?](https://blog.decentraland.org/how-will-nfts-change-games-627d291dc50c) by [Tony Sheng](https://blog.decentraland.org/@tonysheng)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
 - [Top-Down and Bottom-Up Composables, What’s the Difference and Which One Should You Use?](https://hackernoon.com/top-down-and-bottom-up-composables-whats-the-difference-and-which-one-should-you-use-db939f6acf1d) by [Nick Mudge](https://hackernoon.com/@mudgen)
@@ -80,65 +78,43 @@ Table of contents
 - [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io)
 - [The Future of Virtual Assets: Introducing the Fractional NFT](https://hackernoon.com/the-future-of-virtual-assets-introducing-the-fractional-nft-84c218da73c9) by [Marc Howard](https://medium.com/@marcbegins) and [Gauthier Zuppinger](https://medium.com/@gauthier_97697)
 
-### Articles (Misc)
-- [Playbor](https://schott.blogs.nytimes.com/2010/03/12/playbor/) by NY Times
-
-## Audio
-
 ### NFT Podcasts
-- [Digitally Rare](https://digitallyrare.podbean.com/) by [Matt Condon](https://twitter.com/mattgcondon) & [Jonathan Mann](https://twitter.com/songadaymann)
 
 ### Podcast Episodes
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 
 ## NFT Games
 - [00xuniverse](https://0xuniverse.com/)
-- [BananoQuest](https://bananoquest.com/) by [Pocket Network](https://www.pokt.network/)
-- [Chibi CryptoFighters](https://chibifighters.io)
-- [Cryptic Conjure](https://www.crypticconjure.com/)
 - [Crypto Assault](https://cryptoassault.io/)
-- [Crypto Space Commander](https://www.csc-game.com/)
-- [CryptoBots](https://cryptobots.me/)
 - [CryptoFighters](https://cryptofighters.io/)
 - [CryptoFights](https://cryptofights.io/)
 - [Cryptogs](https://cryptogs.io/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [CryptoRome](https://www.cryptorome.io/)
 - [CryptoSaga](https://cryptosaga.io)
-- [CryptoTakeovers](https://cryptotakeovers.com/)
 - [Cryptovoxels](https://www.cryptovoxels.com/)
-- [DappCaps](https://qwoyn.io/)
 - [Decentraland](https://decentraland.org/)
 - [Ember Sword](https://socouch.com/)
-- [Eth.Town](https://eth.town/)
-- [Etheremon](https://www.etheremon.com/)
 - [Ether Kingdoms](https://wax.io/)
 - [Galleass](https://austingriffith.com/portfolio/galleass/)
 - [Gizer](https://gizer.io/)
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
 - [Hedgie](https://www.hedgie.io/)
-- [HiPrecious](http://www.hiprecious.com/)
 - [HyperDragons](https://hyperdragons.alfakingdom.com/)
-- [Known Origin](http://www.knownorigin.io/)
-- [MakersPlace](https://makersplace.com/)
 - [Mythereum](https://www.mythereum.io/)
 - [My Crypto Heros](https://www.mycryptoheroes.net/)
-- [Neon District](https://twitter.com/neondistrictRPG)
+- [Neon District](https://neondistrict.io/)
 - [SkyWeaver](https://skyweaver.net/)
-- [PandaEarth](https://panda.earth/)
 - [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
-- [Zombie Battlegrounds](https://loom.games/) by [Loom Networks](https://loomx.io)
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
-- [0xcert](https://0xcert.org/)
 
 ## Platforms
 - [Hoard](https://www.hoard.exchange/)
-- [Loom Networks](https://loomx.io)
 
 ## NFT Art
 - [SuperRare](https://superrare.co/)
@@ -153,6 +129,8 @@ Table of contents
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 - [KwownOrigin](https://knownorigin.io/)
 - [Codex](https://codexprotocol.com/)
+- [MakersPlace](https://makersplace.com/)
+- [Hashmasks](https://www.thehashmasks.com/)
 
 ## NFT Collectables
 - [CryptoCorals](https://cryptocorals.co/)
@@ -170,23 +148,17 @@ Table of contents
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
-- [Nifty Gateway](https://niftygateway.com/#/home)
 
 ## NFT Marketplaces
-- [Atomic Bazaar](https://www.atomicbazaar.io/)
-- [Emoon](https://www.emoon.io/)
 - [OpenSea.io](https://opensea.io/)
 - [CryptoSlam.io](https://www.cryptoslam.io/)
 - [Portion](http://portion.io/)
-- [RareBits.io](http://rarebits.io/)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
+- [Nifty Gateway](https://niftygateway.com/#/home)
 
 ## NFT Philanthropy
 - [CryptoCorals](https://cryptocorals.co/)
-
-## Marketplaces
-- [Wyvern Exchange](https://exchange.projectwyvern.com/)
 
 ## Discovery
 - [NonFungible](https://nonfungible.com/)
@@ -195,14 +167,7 @@ Table of contents
 
 ### NFT Generators
 - [ethmoji](https://ethmoji.io/)
-- [Digital Art chain](http://digitalartchain.com/)
-- [Mokens](https://mokens.io/)
-- [Mintable](https://mintable.app/)
 
-### Digital Art Generators
-- [Archetype](http://archetype.mx/)
-- [Monograph](https://monegraph.com/)
-- [R.A.R.E Digital Art Network](https://www.rareart.io/)
 
 ## Composables
 - [Mokens](https://mokens.io/)
