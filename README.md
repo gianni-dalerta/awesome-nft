@@ -1,6 +1,4 @@
-Just type [non-fungible-token.com](http://non-fungible-token.com) to go here. Follow me on [Twitter](https://twitter.com/GianniDalerta).
-
-
+Follow me on [Twitter](https://twitter.com/GianniDalerta).
 
 # Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
@@ -49,10 +47,9 @@ Table of contents
 ## NFT Commmunity
 
 ### Discord
-- [NFTy Magicians](https://discord.gg/gNSWat)
+- [NFTy Magicians](https://discord.gg/SDSKQzqS)
 
 ### NFT Enabled Communities
-- [Tok'n'Talk](https://tokntalk.club)
 
 ### Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
@@ -144,30 +141,31 @@ Table of contents
 - [Loom Networks](https://loomx.io)
 
 ## NFT Art
+- [SuperRare](https://superrare.co/)
+- [Portion](https://portion.io/)
+- [Rarible](https://rarible.com/)
 - [CryptoArte](https://www.cryptoarte.io/)
 - [CryptoCanvas](https://rinkeby.cryptocanvas.art/)
-- [CryptoMasterpieces](https://www.cryptomasterpieces.com/) Site is dead
 - [Dada NYC](https://dada.nyc/)
 - [DigitalArtChain](http://digitalartchain.com/)
 - [John Orion Young](https://www.johnorionyoung.com/)
 - [Digital Objects](https://digitalobjects.art/) by [Ryan Duffy](https://twitter.com/vidmeduffy)
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
+- [KwownOrigin](https://knownorigin.io/)
+- [Codex](https://codexprotocol.com/)
 
 ## NFT Collectables
 - [CryptoCorals](https://cryptocorals.co/)
 - [CryptoKitties](https://www.cryptokitties.co/)
-- [Crypto Celebrities](https://cryptocelebrities.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
 - [CryptoPunks](https://www.larvalabs.com/cryptopunks)
-- [Hashletes](https://hashletes.com/)
 - [Hedgie](https://www.hedgie.io/)
 - [ECOMI](https://www.ecomi.com/)
 - [Kudos](https://gitcoin.co/kudos/) by [Gitcoin](https://gitcoin.co/)
 - [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
-- [OPSkins](https://opskins.com/)
-- [PlayerTokens](https://playertokens.co/)
 - [CryptoStrikers](https://www.cryptostrikers.com/)
 - [EtherTulips](https://ethertulips.com/)
+- [NBA Top Shot](https://nbatopshot.com)
 
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
@@ -178,6 +176,7 @@ Table of contents
 - [Atomic Bazaar](https://www.atomicbazaar.io/)
 - [Emoon](https://www.emoon.io/)
 - [OpenSea.io](https://opensea.io/)
+- [CryptoSlam.io](https://www.cryptoslam.io/)
 - [Portion](http://portion.io/)
 - [RareBits.io](http://rarebits.io/)
 - [SuperRare](https://superrare.co/)
