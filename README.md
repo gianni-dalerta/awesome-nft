@@ -110,6 +110,7 @@ Table of contents
 - [World of Ether](https://worldofether.com/)
 
 ## NFT Platforms
+- [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
 
@@ -144,6 +145,8 @@ Table of contents
 - [CryptoStrikers](https://www.cryptostrikers.com/)
 - [EtherTulips](https://ethertulips.com/)
 - [NBA Top Shot](https://nbatopshot.com)
+- [Bullionix](https://bullionix.io/)
+- [Aavegotchi](https://aavegotchi.com/)
 
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
