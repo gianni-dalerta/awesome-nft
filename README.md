@@ -24,6 +24,7 @@ Table of contents
 * [NFT Platforms](#nft-platforms)
 * [Platforms](#platforms)
 * [NFT Art](#nft-art)
+* [NFT DeFi](#nft-defi)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
 * [NFT Marketplaces](#nft-marketplaces)
@@ -108,6 +109,7 @@ Table of contents
 - [WarCrypto](https://warofcrypto.io)
 - [War Riders](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
+- [Aavegotchi](https://aavegotchi.com/)
 
 ## NFT Platforms
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
@@ -132,6 +134,10 @@ Table of contents
 - [Codex](https://codexprotocol.com/)
 - [MakersPlace](https://makersplace.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
+
+## NFT Defi
+- [Charged Particles](https://app.charged.fi/go/leptons) by [robsecord.eth](https://twitter.com/robsecord)
+- [Aavegotchi](https://aavegotchi.com/)
 
 ## NFT Collectables
 - [CryptoCorals](https://cryptocorals.co/)
