@@ -58,6 +58,7 @@ Table of contents
 ## NFT Commmunity
 
 ### Discord
+- [CryptoDevs](https://discord.gg/YRZG8wvD)
 - [NFTy Magicians](https://discord.gg/SDSKQzqS)
 
 ### NFT Enabled Communities
