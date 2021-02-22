@@ -9,7 +9,8 @@ Table of contents
 <!--ts-->
 * [Blockchains](#blockchains)
   * [Ethereum](#ethereum)
-  * [Matic/Polygon](#matic-polygon)
+  * [Matic - Polygon](#matic-polygon)
+  * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
@@ -48,8 +49,11 @@ Table of contents
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
 - [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
 
-### Matic/Polygon
+### Matic - Polygon
 - [Matic/Polygon](https://polygon.technology/)
+
+### Flow Blockchain
+- [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
 
 ## NFT Commmunity
 
@@ -118,7 +122,6 @@ Table of contents
 - [Aavegotchi](https://aavegotchi.com/)
 
 ## NFT Platforms
-- [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
 
