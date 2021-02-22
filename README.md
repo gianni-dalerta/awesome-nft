@@ -9,7 +9,7 @@ Table of contents
 <!--ts-->
 * [Blockchains](#blockchains)
   * [Ethereum](#ethereum)
-  * [Matic - Polygon](#matic-polygon)
+  * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
   * [Discord](#discord)
