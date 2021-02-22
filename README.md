@@ -7,7 +7,9 @@ Table of contents
 =================
 
 <!--ts-->
-* [Ethereum](#ethereum)
+* [Blockchains](#blockchains)
+  * [Ethereum](#ethereum)
+  * [Matic/Polygon](#matic-polygon)
 * [NFT Commmunity](#nft-commmunity)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
@@ -38,12 +40,16 @@ Table of contents
 * [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
 <!--te-->
 
-## Ethereum
+## Blockchains
+### Ethereum
 - [ERC-721: Non-fungible Token Standard](https://eips.ethereum.org/EIPS/eip-721)
 - [ERC-721x: Extends ERC721 and adds support for multi-fungible tokens and batch transfers, fully backward-compatible](https://github.com/loomnetwork/erc721x)
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
 - [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
+
+### Matic/Polygon
+- [Matic/Polygon](https://polygon.technology/)
 
 ## NFT Commmunity
 
