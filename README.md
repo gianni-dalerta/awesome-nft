@@ -130,6 +130,7 @@ Table of contents
 - [Hoard](https://www.hoard.exchange/)
 
 ## NFT Art
+- [Nifty.ink](https://nifty.ink) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
 - [SuperRare](https://superrare.co/)
 - [Portion](https://portion.io/)
 - [Rarible](https://rarible.com/)
