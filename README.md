@@ -27,6 +27,7 @@ Table of contents
 * [NFT Platforms](#nft-platforms)
 * [Platforms](#platforms)
 * [NFT Art](#nft-art)
+* [NFT Music](#nft-music)
 * [NFT DeFi](#nft-defi)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
@@ -145,6 +146,9 @@ Table of contents
 - [Codex](https://codexprotocol.com/)
 - [MakersPlace](https://makersplace.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
+
+## NFT Music
+- [EulerBeats](https://eulerbeats.com/)
 
 ## NFT Defi
 - [Charged Particles](https://app.charged.fi/go/leptons) by [robsecord.eth](https://twitter.com/robsecord)
