@@ -153,6 +153,7 @@ Table of contents
 ## NFT Defi
 - [Charged Particles](https://app.charged.fi/go/leptons) by [robsecord.eth](https://twitter.com/robsecord)
 - [NFTX](https://nftx.org/)
+- [NFT20](https://nft20.io/)
 - [Aavegotchi](https://aavegotchi.com/)
 
 ## NFT Collectables
