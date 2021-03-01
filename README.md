@@ -134,7 +134,6 @@ Table of contents
 - [Nifty.ink](https://nifty.ink) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
 - [SuperRare](https://superrare.co/)
 - [Portion](https://portion.io/)
-- [Rarible](https://rarible.com/)
 - [CryptoArte](https://www.cryptoarte.io/)
 - [CryptoCanvas](https://rinkeby.cryptocanvas.art/)
 - [Dada NYC](https://dada.nyc/)
@@ -144,7 +143,6 @@ Table of contents
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 - [KwownOrigin](https://knownorigin.io/)
 - [Codex](https://codexprotocol.com/)
-- [MakersPlace](https://makersplace.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
 
 ## NFT Music
@@ -182,6 +180,8 @@ Table of contents
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
 - [Nifty Gateway](https://niftygateway.com/#/home)
+- [MakersPlace](https://makersplace.com/)
+- [Rarible](https://rarible.com/)
 
 ## NFT Philanthropy
 - [CryptoCorals](https://cryptocorals.co/)
