@@ -194,7 +194,6 @@ Table of contents
 ### NFT Generators
 - [ethmoji](https://ethmoji.io/)
 
-
 ## Composables
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
@@ -208,6 +207,7 @@ Table of contents
 - [DexWallet](https://www.dexwallet.io/)
 - [CoinBase Wallet](https://wallet.coinbase.com/)
 
-## Framework, blockchain orchestration, testing, and command line interface.
+## Resources, frameworks, blockchain orchestration, testing, and command line interface.
 - [Clevis](https://github.com/austintgriffith/clevis)
 - [0xcert Framework](https://github.com/0xcert/framework/)
+- [NFTE](https://nfte.app/)
