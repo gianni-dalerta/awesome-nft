@@ -153,6 +153,7 @@ Table of contents
 - [NFTX](https://nftx.org/)
 - [NFT20](https://nft20.io/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [NFTfi](https://nftfi.com/)
 
 ## NFT Collectables
 - [CryptoCorals](https://cryptocorals.co/)
