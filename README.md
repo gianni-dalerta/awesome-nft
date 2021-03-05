@@ -31,7 +31,7 @@ Table of contents
 * [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
-* [NFT Badges/Achievements](#nft-badges-achievements)
+* [NFT Badges](#nft-badges)
 * [NFT Marketplaces](#nft-marketplaces)
 * [NFT Philanthropy](#nft-philanthropy)
 * [Marketplaces](#marketplaces)
@@ -176,7 +176,7 @@ Table of contents
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
 
-## NFT Badges/Achievements
+## NFT Badges
 - [CHIEVMINT](https://chiev.net/) by the [Raid Guild](https://raidguild.org/)
 
 ## NFT Marketplaces
