@@ -25,13 +25,13 @@ Table of contents
   * [Podcast Episodes](#podcast-episodes)
 * [NFT Games](#nft-games)
 * [NFT Platforms](#nft-platforms)
-* [Platforms](#platforms)
 * [NFT Art](#nft-art)
 * [NFT Music](#nft-music)
 * [NFT DeFi](#nft-defi)
 * [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
+* [NFT Badges/Achievements](#nft-badges-achievements)
 * [NFT Marketplaces](#nft-marketplaces)
 * [NFT Philanthropy](#nft-philanthropy)
 * [Marketplaces](#marketplaces)
@@ -127,8 +127,6 @@ Table of contents
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
-
-## Platforms
 - [Hoard](https://www.hoard.exchange/)
 
 ## NFT Art
@@ -177,6 +175,9 @@ Table of contents
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
+
+## NFT Badges/Achievements
+- [CHIEVMINT](https://chiev.net/) by the [Raid Guild](https://raidguild.org/)
 
 ## NFT Marketplaces
 - [OpenSea.io](https://opensea.io/)
