@@ -29,6 +29,7 @@ Table of contents
 * [NFT Art](#nft-art)
 * [NFT Music](#nft-music)
 * [NFT DeFi](#nft-defi)
+* [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
 * [NFT Marketplaces](#nft-marketplaces)
@@ -154,6 +155,9 @@ Table of contents
 - [NFT20](https://nft20.io/)
 - [Aavegotchi](https://aavegotchi.com/)
 - [NFTfi](https://nftfi.com/)
+
+## NFT Fundraising
+- [Gittron](https://gittron.me/)
 
 ## NFT Collectables
 - [CryptoCorals](https://cryptocorals.co/)
