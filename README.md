@@ -153,6 +153,7 @@ Table of contents
 - [NFT20](https://nft20.io/)
 - [Aavegotchi](https://aavegotchi.com/)
 - [NFTfi](https://nftfi.com/)
+- [NFY](https://nfy.finance/)
 
 ## NFT Fundraising
 - [Gittron](https://gittron.me/)
