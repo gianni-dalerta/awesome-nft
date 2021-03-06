@@ -36,7 +36,7 @@ Table of contents
 * [NFT Philanthropy](#nft-philanthropy)
 * [Marketplaces](#marketplaces)
 * [Generators](#generators)
-  * [NFT Generators](#nft-generators)
+  * [NFT Minters](#nft-minters)
   * [Digital Art Generators](#digital-art-generators)
 * [Composables](#composables)
 * [NFT Wallets](#nft-wallets)
