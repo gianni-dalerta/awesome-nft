@@ -154,6 +154,7 @@ Table of contents
 - [Aavegotchi](https://aavegotchi.com/)
 - [NFTfi](https://nftfi.com/)
 - [NFY](https://nfy.finance/)
+- [Unifty](https://unifty.io/)
 
 ## NFT Fundraising
 - [Gittron](https://gittron.me/)
@@ -191,6 +192,7 @@ Table of contents
 - [Rarible](https://rarible.com/)
 - [GhostMarket](https://ghostmarket.io/)
 - [Async.art](https://async.art/)
+- [Unifty](https://unifty.io/
 
 ## NFT Philanthropy
 - [CryptoCorals](https://cryptocorals.co/)
@@ -200,8 +202,10 @@ Table of contents
 
 ## Generators
 
-### NFT Generators
+### NFT Minters
 - [ethmoji](https://ethmoji.io/)
+- [OpenSea.io](https://opensea.io/)
+- [Unifty](https://unifty.io/)
 
 ## Composables
 - [Mokens](https://mokens.io/)
