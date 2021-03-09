@@ -123,6 +123,7 @@ Table of contents
 - [War Riders](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
