@@ -124,6 +124,7 @@ Table of contents
 - [World of Ether](https://worldofether.com/)
 - [Aavegotchi](https://aavegotchi.com/)
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
+- [Nifty Chess](https://niftychess.com/)
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
