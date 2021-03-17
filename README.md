@@ -125,6 +125,7 @@ Table of contents
 - [Aavegotchi](https://aavegotchi.com/)
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
 - [Nifty Chess](https://niftychess.com/)
+- [CryptoWeebs](https://www.crypto-weebs.com/)
 
 ## NFT Platforms
 - [Enjin Coin](https://enjincoin.io/)
@@ -176,10 +177,12 @@ Table of contents
 - [NBA Top Shot](https://nbatopshot.com)
 - [Bullionix](https://bullionix.io/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [CryptoWeebs](https://www.crypto-weebs.com/)
 
 ## NFT Business
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
+- [CXIP NFT Copywriting](https://www.cxip.io/)
 
 ## NFT Badges
 - [CHIEVMINT](https://chiev.net/) by the [Raid Guild](https://raidguild.org/)
