@@ -198,7 +198,7 @@ Table of contents
 - [Rarible](https://rarible.com/)
 - [GhostMarket](https://ghostmarket.io/)
 - [Async.art](https://async.art/)
-- [Unifty](https://unifty.io/
+- [Unifty](https://unifty.io/)
 
 ## NFT Philanthropy
 - [CryptoCorals](https://cryptocorals.co/)
