@@ -146,6 +146,7 @@ Table of contents
 - [KwownOrigin](https://knownorigin.io/)
 - [Codex](https://codexprotocol.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
+- [EthBlockArt](https://www.ethblock.art/)
 
 ## NFT Music
 - [EulerBeats](https://eulerbeats.com/)
