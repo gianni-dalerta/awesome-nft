@@ -96,6 +96,7 @@ Table of contents
 
 ### Podcast Episodes
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
+- Modern Financ‪e‬ - Kevin Rose | NFTs: Blockchain-Powered Art, Trading Cards, Music, and More with Aftab Hossai‪n‬ [[Spotify]](https://open.spotify.com/episode/5OfYQmAUn8ul6I0SrCpEFS) [[Apple Podcast]](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184)
 
 ## NFT Games
 - [00xuniverse](https://0xuniverse.com/)
