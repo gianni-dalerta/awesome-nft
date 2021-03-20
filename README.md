@@ -24,7 +24,7 @@ Table of contents
   * [NFT Podcasts](#nft-podcasts)
   * [Podcast Episodes](#podcast-episodes)
 
-* [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
+* [Framework, blockchain orchestration, testing, and command line interface](#resources-frameworks-blockchain-orchestration-testing-and-command-line-interface)
 * [NFT Games](#nft-games)
 * [NFT Platforms](#nft-platforms)
 * [NFT Art](#nft-art)
