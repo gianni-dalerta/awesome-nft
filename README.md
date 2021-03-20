@@ -12,7 +12,7 @@ Table of contents
   * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
-  * [DAOs](#dao)
+  * [DAOs](#daos)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
   * [Twitter List](#twitter-list)
