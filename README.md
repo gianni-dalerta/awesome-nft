@@ -23,6 +23,8 @@ Table of contents
 * [Audio](#audio)
   * [NFT Podcasts](#nft-podcasts)
   * [Podcast Episodes](#podcast-episodes)
+
+* [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
 * [NFT Games](#nft-games)
 * [NFT Platforms](#nft-platforms)
 * [NFT Art](#nft-art)
@@ -40,7 +42,7 @@ Table of contents
   * [Digital Art Generators](#digital-art-generators)
 * [Composables](#composables)
 * [NFT Wallets](#nft-wallets)
-* [Framework, blockchain orchestration, testing, and command line interface](#framework-blockchain-orchestration-testing-and-command-line-interface)
+
 <!--te-->
 
 ## Blockchains
@@ -98,6 +100,12 @@ Table of contents
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 - Modern Financ‪e‬ - Kevin Rose | NFTs: Blockchain-Powered Art, Trading Cards, Music, and More with Aftab Hossai‪n‬ [[Spotify]](https://open.spotify.com/episode/5OfYQmAUn8ul6I0SrCpEFS) [[Apple Podcast]](https://podcasts.apple.com/us/podcast/modern-finance/id1338620184)
 
+## Resources, frameworks, blockchain orchestration, testing, and command line interface.
+- [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
+- [0xcert Framework](https://github.com/0xcert/framework/)
+- [NFTE](https://nfte.app/)
+- [Check My NFT](https://checkmynft.com/)
+
 ## NFT Games
 - [00xuniverse](https://0xuniverse.com/)
 - [Crypto Assault](https://cryptoassault.io/)
@@ -148,6 +156,7 @@ Table of contents
 - [Codex](https://codexprotocol.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
 - [EthBlockArt](https://www.ethblock.art/)
+- [Avastars](https://avastars.io/)
 
 ## NFT Music
 - [EulerBeats](https://eulerbeats.com/)
@@ -228,8 +237,3 @@ Table of contents
 - [DexWallet](https://www.dexwallet.io/)
 - [CoinBase Wallet](https://wallet.coinbase.com/)
 
-## Resources, frameworks, blockchain orchestration, testing, and command line interface.
-- [Clevis](https://github.com/austintgriffith/clevis)
-- [0xcert Framework](https://github.com/0xcert/framework/)
-- [NFTE](https://nfte.app/)
-- [Check My NFT](https://checkmynft.com/)
