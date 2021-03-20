@@ -12,6 +12,7 @@ Table of contents
   * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
+  * [DAOs](#dao)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
   * [Twitter List](#twitter-list)
@@ -60,6 +61,9 @@ Table of contents
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
 
 ## NFT Commmunity
+
+### DAOs
+- [nfDAO](https://twitter.com/dao_nf) <= Twitter
 
 ### Discord
 - [CryptoDevs](https://discord.gg/YRZG8wvD)
