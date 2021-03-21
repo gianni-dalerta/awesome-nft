@@ -16,6 +16,8 @@ Table of contents
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
   * [Twitter List](#twitter-list)
+* [Hackathons](#hackathons)
+  * [2021 Eth Global NFT Hack](#2021-eth-global-nft-hack)
 * [Publications](#publications)
   * [Newsletters](#newsletters)
   * [Gaming](#gaming)
@@ -69,12 +71,16 @@ Table of contents
 - [CryptoDevs](https://discord.gg/YRZG8wvD)
 - [NFTy Magicians](https://discord.gg/SDSKQzqS)
 
-### NFT Enabled Communities
+## Hackathons
 
-### Twitter List
+### 2021 Eth Global NFT Hack
+- [MysteryDrop](https://hack.ethglobal.co/showcase/mysterydrop-recnAaH5hHt2oH656) - Details on [Medium](https://ipatka.medium.com/nft-box-breaks-how-to-use-the-unique-properties-of-ipfs-content-addressing-to-sell-nfts-before-365b5b1f1ed0) by project lead [Isaac Patka](https://twitter.com/isaacpatka)
+- [SuperRenting](https://hack.ethglobal.co/showcase/superrenting-nft-recGACrXfeSonVIuY)
+
+## Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
-### Associations
+## Associations
 - [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
 
 ## Publications
