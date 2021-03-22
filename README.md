@@ -76,6 +76,7 @@ Table of contents
 ### 2021 Eth Global NFT Hack [Full Showcase](https://hack.ethglobal.co/nfthack/showcase)
 - [MysteryDrop](https://hack.ethglobal.co/showcase/mysterydrop-recnAaH5hHt2oH656) - Details on [Medium](https://ipatka.medium.com/nft-box-breaks-how-to-use-the-unique-properties-of-ipfs-content-addressing-to-sell-nfts-before-365b5b1f1ed0) by project lead [Isaac Patka](https://twitter.com/isaacpatka)
 - [SuperRenting](https://hack.ethglobal.co/showcase/superrenting-nft-recGACrXfeSonVIuY)
+- [Crypto Corgis](https://hack.ethglobal.co/showcase/crypto-corgis-recGugZ7pMkpEO4zS)
 
 ## Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
