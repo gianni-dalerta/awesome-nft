@@ -89,8 +89,8 @@ Table of contents
 
 
 ## Twitter List
-- [J.P. Aulet NFT Twitter List](https://twitter.com/i/lists/1356905489318182914)
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
+- [J.P. Aulet NFT Twitter List](https://twitter.com/i/lists/1356905489318182914)
 
 ## Associations
 - [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
