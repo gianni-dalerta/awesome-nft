@@ -86,6 +86,8 @@ Table of contents
 - [Pooch](https://hack.ethglobal.co/showcase/pooch-recWdMBcvH8LsMZvR)
 - [Cashcow](https://hack.ethglobal.co/showcase/cashcow-%F0%9F%90%AE-recLo6lxmlKAKKGX0) 
 - [NFT Gallery](https://hack.ethglobal.co/showcase/nft-gallery-rec0ZuNfFrJAIaTcL)
+- [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
+
 
 
 ## Twitter List
