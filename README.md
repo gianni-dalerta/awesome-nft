@@ -191,6 +191,9 @@ Table of contents
 - [NFY](https://nfy.finance/)
 - [Unifty](https://unifty.io/)
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
+- [Visor Fianance](https://www.visor.finance/)
+- [Circuits of Value](https://circuitsofvalue.com/)
+- [Alchemist](https://github.com/alchemistcoin/alchemist)
 
 ## NFT Fundraising
 - [Gittron](https://gittron.me/)
