@@ -89,7 +89,6 @@ Table of contents
 - [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
 
 
-
 ## Twitter List
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
 
