@@ -220,6 +220,7 @@ Table of contents
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
 - [CXIP NFT Copywriting](https://www.cxip.io/)
+- [GET Protocol](https://get-protocol.io/)
 
 ## NFT Badges
 - [CHIEVMINT](https://chiev.net/) by the [Raid Guild](https://raidguild.org/)
