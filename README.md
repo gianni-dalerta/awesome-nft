@@ -116,6 +116,7 @@ Table of contents
 - [Crafting New Value with Existing Tokens](https://medium.com/@brianubiquik/crafting-new-value-with-existing-tokens-de95fe838fea) by [Brian Flynn](https://medium.com/@brianubiquik)
 - [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io)
 - [The Future of Virtual Assets: Introducing the Fractional NFT](https://hackernoon.com/the-future-of-virtual-assets-introducing-the-fractional-nft-84c218da73c9) by [Marc Howard](https://medium.com/@marcbegins) and [Gauthier Zuppinger](https://medium.com/@gauthier_97697)
+- [NFT Value Capture Equation](https://coopahtroopa.mirror.xyz/A16NP2XXi9RdHptfdF9WHR0Xq_E1XDmUgMwPmJYOG7w)
 
 ### NFT Podcasts
 
