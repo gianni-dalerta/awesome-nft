@@ -129,6 +129,7 @@ Table of contents
 - [0xcert Framework](https://github.com/0xcert/framework/)
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
+- [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
 
 ## NFT Games
 - [00xuniverse](https://0xuniverse.com/)
