@@ -19,7 +19,7 @@ Table of contents
   * [NFT Enabled Communities](#nft-enabled-communities)
   * [Twitter List](#twitter-list)
 * [Hackathons](#hackathons)
-  * [2021 Eth Global NFT Hack](#2021-eth-global-nft-hack-full-showcase)
+  * [2021 Eth Global NFT Hack](#2021-eth-global-nft-hack-full-showcasee)
 * [Publications](#publications)
   * [Newsletters](#newsletters)
   * [Gaming](#gaming)
