@@ -142,6 +142,13 @@ Table of contents
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 - [Digitally Rare](https://twitter.com/digitallyrare)
 
+## Resources, frameworks, blockchain orchestration, testing, and command line interface.
+- [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
+- [0xcert Framework](https://github.com/0xcert/framework/)
+- [NFTE](https://nfte.app/)
+- [Check My NFT](https://checkmynft.com/)
+- [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
+
 ## **NFT Games**
 
 - [00xuniverse](https://0xuniverse.com/)
