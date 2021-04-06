@@ -272,6 +272,7 @@ Table of contents
 ## **NFT Marketplaces**
 
 - [OpenSea.io](https://opensea.io/)
+- [Cargo](https://cargo.build/)
 - [CryptoSlam.io](https://www.cryptoslam.io/)
 - [Portion](http://portion.io/)
 - [SuperRare](https://superrare.co/)
