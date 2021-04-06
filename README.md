@@ -47,7 +47,7 @@ Table of contents
   * [Digital Art Generators](#digital-art-generators)
 * [Composables](#composables)
 * [NFT Wallets](#nft-wallets)
-
+* [NFT Carbon Footprint](#nft-carbon-footprint)
 <!--te-->
 
 ## **Project Spotlight** (Feel free to contribute to the list)
@@ -294,3 +294,7 @@ Table of contents
 - [0xcert Framework](https://github.com/0xcert/framework/)
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
+
+## NFT Carbon Footprint
+- [Carbon.fyi by Offsetra](https://carbon.fyi/)
+- [cryptoart-footprint](https://github.com/kylemcdonald/cryptoart-footprint)
