@@ -100,6 +100,25 @@ Table of contents
 - [Rarible](https://twitter.com/rariblecom?lang=en)
 - [NFT Protocol](https://twitter.com/nft_protocol?lang=en)
 
+### 2021 Eth Global NFT Hack [Full Showcase](https://hack.ethglobal.co/nfthack/showcase)
+- [MysteryDrop](https://hack.ethglobal.co/showcase/mysterydrop-recnAaH5hHt2oH656) - Details on [Medium](https://ipatka.medium.com/nft-box-breaks-how-to-use-the-unique-properties-of-ipfs-content-addressing-to-sell-nfts-before-365b5b1f1ed0) by project lead [Isaac Patka](https://twitter.com/isaacpatka)
+- [hashink](https://hack.ethglobal.co/showcase/hashink-rechIlWuMbBysOmOJ)
+- [SuperRenting](https://hack.ethglobal.co/showcase/superrenting-nft-recGACrXfeSonVIuY)
+- [Crypto Corgis](https://hack.ethglobal.co/showcase/crypto-corgis-recGugZ7pMkpEO4zS)
+- [DeFacto](https://hack.ethglobal.co/showcase/defacto-recAPU6X12OplTTmJ)
+- [Animal Money](https://hack.ethglobal.co/showcase/animal-money-recUnSfy2ytENt32q)
+- [Genesis](https://hack.ethglobal.co/showcase/genesis-recCJSTINRc1TDy54)
+- [BurstNFT](https://hack.ethglobal.co/showcase/burst-nft-recIALHiB7gXWsaAE)
+- [Pooch](https://hack.ethglobal.co/showcase/pooch-recWdMBcvH8LsMZvR)
+- [Cashcow](https://hack.ethglobal.co/showcase/cashcow-%F0%9F%90%AE-recLo6lxmlKAKKGX0) 
+- [NFT Gallery](https://hack.ethglobal.co/showcase/nft-gallery-rec0ZuNfFrJAIaTcL)
+- [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
+- [Hashchain](https://hack.ethglobal.co/showcase/hashchain-recIkfZwbN7FfYSTs)
+
+## NFT Carbon Footprint
+- [Carbon.fyi by Offsetra](https://carbon.fyi/)
+- [cryptoart-footprint](https://github.com/kylemcdonald/cryptoart-footprint)
+
 ### **Associations**
 
 - [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
