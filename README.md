@@ -223,6 +223,7 @@ Table of contents
 - [Codex](https://codexprotocol.com/)
 - [Hashmasks](https://www.thehashmasks.com/)
 - [EtherPalace](https://pachunka.github.io/EtherPalace/palace.html)
+- [EthBlockArt](https://ethblock.art/)
 
 ## **NFT Music**
 
