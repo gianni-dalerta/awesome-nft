@@ -295,6 +295,10 @@ Table of contents
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
 
-## NFT Carbon Footprint
+## **NFT Carbon Footprint**
+
+The NFT Carbon footprint is subject to a lot of debates and depends on the blockchain technology used, especially its consensus mechanism: Proof of Work, Proof of Stake, Proof of Elapsed Time...
+One should know that the Proof of Work (PoW) requires an important amount of energy as it is a computational competition. This amount is considerably higher than other consensus mechanisms but it is still hard to have a precise estimation of the consumed energy.
+
+- [Estimate the total CO2 footprint for popular CryptoArt platforms](https://github.com/kylemcdonald/cryptoart-footprint)
 - [Carbon.fyi by Offsetra](https://carbon.fyi/)
-- [cryptoart-footprint](https://github.com/kylemcdonald/cryptoart-footprint)
