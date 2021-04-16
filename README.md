@@ -74,12 +74,17 @@ Table of contents
 ### **Flow Blockchain**
 
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
+### **Polkadot/Kusama**
+
+- [RMRK](https://github.com/rmrk-team/rmrk-spec)
 
 ## NFT Tutorials
 
 - [Cryptozombies Tutorial](https://cryptozombies.io/en/lesson/5)
 - [NFT Tutorial Article](https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914)
 - Coding an [ERC-721 collectible](https://www.youtube.com/watch?v=YPbgjPPC1d0).
+- [How to mint on KodaDot NFT](https://nft.kodadot.xyz/rmrk/collection/10D77F8B699437BB50-KODA)
+- [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
 
 ## EZ NFTs
 
@@ -299,6 +304,7 @@ Table of contents
 ### **NFT Minters**
 
 - [ethmoji](https://ethmoji.io/)
+- [KodaDot](https://nft.kodadot.xyz)
 - [OpenSea.io](https://opensea.io/)
 - [Unifty](https://unifty.io/)
 
