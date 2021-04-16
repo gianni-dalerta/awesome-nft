@@ -272,18 +272,19 @@ Table of contents
 
 ## **NFT Marketplaces**
 
-- [OpenSea.io](https://opensea.io/)
+- [Async.art](https://async.art/)
 - [Cargo](https://cargo.build/)
 - [CryptoSlam.io](https://www.cryptoslam.io/)
+- [GhostMarket](https://ghostmarket.io/)
+- [KodaDot](https://nft.kodadot.xyz)
+- [MakersPlace](https://makersplace.com/)
+- [Nifty Gateway](https://niftygateway.com/#/home)
+- [OpenSea.io](https://opensea.io/)
 - [Portion](http://portion.io/)
+- [Rarible](https://rarible.com/)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
-- [Nifty Gateway](https://niftygateway.com/#/home)
-- [MakersPlace](https://makersplace.com/)
-- [Rarible](https://rarible.com/)
-- [GhostMarket](https://ghostmarket.io/)
-- [Async.art](https://async.art/)
-- [Unifty] Cra[https://unifty.io/](https://unifty.io/)
+- [Unifty](https://unifty.io/)
 
 ## **NFT Philanthropy**
 
