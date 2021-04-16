@@ -44,7 +44,6 @@ Table of contents
 * [Marketplaces](#marketplaces)
 * [Generators](#generators)
   * [NFT Minters](#nft-minters)
-  * [Digital Art Generators](#digital-art-generators)
 * [Composables](#composables)
 * [NFT Wallets](#nft-wallets)
 * [NFT Carbon Footprint](#nft-carbon-footprint)
@@ -306,6 +305,8 @@ Table of contents
 - [ethmoji](https://ethmoji.io/)
 - [KodaDot](https://nft.kodadot.xyz)
 - [OpenSea.io](https://opensea.io/)
+- [Ownerfyy](https://shop.ownerfy.com/)
+- [Rarible](https://rarible.com/)
 - [Unifty](https://unifty.io/)
 
 ## **Composables**
