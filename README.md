@@ -305,7 +305,7 @@ Table of contents
 - [ethmoji](https://ethmoji.io/)
 - [KodaDot](https://nft.kodadot.xyz)
 - [OpenSea.io](https://opensea.io/)
-- [Ownerfyy](https://shop.ownerfy.com/)
+- [Ownerfy](https://shop.ownerfy.com/)
 - [Rarible](https://rarible.com/)
 - [Unifty](https://unifty.io/)
 
