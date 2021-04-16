@@ -85,10 +85,6 @@ Table of contents
 - [How to mint on KodaDot NFT](https://nft.kodadot.xyz/rmrk/collection/10D77F8B699437BB50-KODA)
 - [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
 
-## EZ NFTs
-
-[https://mintable.app](https://mintable.app/)
-
 ## **NFT Commmunity**
 
 ### **Discord**
@@ -282,6 +278,7 @@ Table of contents
 - [GhostMarket](https://ghostmarket.io/)
 - [KodaDot](https://nft.kodadot.xyz)
 - [MakersPlace](https://makersplace.com/)
+- [Mintable](https://mintable.app/)
 - [Nifty Gateway](https://niftygateway.com/#/home)
 - [OpenSea.io](https://opensea.io/)
 - [Portion](http://portion.io/)
