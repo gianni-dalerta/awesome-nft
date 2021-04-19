@@ -286,6 +286,7 @@ Table of contents
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
 - [Unifty](https://unifty.io/)
+- [Unique.One](https://www.unique.one/)
 
 ## **NFT Philanthropy**
 
