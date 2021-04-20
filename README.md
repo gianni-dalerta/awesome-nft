@@ -56,7 +56,7 @@ Table of contents
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
  - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
 
-## **Blockchains**
+## **Distributed Ledgers**
 
 ### **Ethereum**
 
@@ -77,6 +77,10 @@ Table of contents
 
 - [RMRK](https://github.com/rmrk-team/rmrk-spec)
 
+### **Hedera Token Service**
+
+- [HTS](https://hedera.com/token-service)
+
 ## NFT Tutorials
 
 - [Cryptozombies Tutorial](https://cryptozombies.io/en/lesson/5)
@@ -84,6 +88,7 @@ Table of contents
 - Coding an [ERC-721 collectible](https://www.youtube.com/watch?v=YPbgjPPC1d0).
 - [How to mint on KodaDot NFT](https://nft.kodadot.xyz/rmrk/collection/10D77F8B699437BB50-KODA)
 - [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
+- [Hedera Token Service Demo: Token configuration, issuance, and transfer](https://www.youtube.com/watch?v=aEFm4bdnsBI)
 
 ## **NFT Commmunity**
 
@@ -153,6 +158,8 @@ Table of contents
 - [ERC721x — A Smarter Token for the Future of Crypto Collectibles](https://medium.com/loom-network/erc721x-a-smarter-token-for-the-future-of-crypto-collectibles-335ba5f706d1) by [Luke Zhang](https://medium.com/@lukezhang) at [Loom Networks](https://loomx.io/)
 - [The Future of Virtual Assets: Introducing the Fractional NFT](https://hackernoon.com/the-future-of-virtual-assets-introducing-the-fractional-nft-84c218da73c9) by [Marc Howard](https://medium.com/@marcbegins) and [Gauthier Zuppinger](https://medium.com/@gauthier_97697)
 - [Tokenization of Real Estate](http://sinahab.com/real-estate-tokenization/) by [Sina Habibian](http://sinahab.com/author/sina/)
+- [What is a non-fungible token (NFT)?](https://hedera.com/learning/what-is-a-non-fungible-token-nft)
+- [Rare Sneaker App Switches From Ethereum to Hedera to Skip Blockchain Fees](https://www.coindesk.com/suku-sneaker-app-switches-from-ethereum-to-hedera-hashgraph)
 
 ### **NFT Podcasts**
 
