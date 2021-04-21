@@ -160,6 +160,7 @@ Table of contents
 - [Tokenization of Real Estate](http://sinahab.com/real-estate-tokenization/) by [Sina Habibian](http://sinahab.com/author/sina/)
 - [What is a non-fungible token (NFT)?](https://hedera.com/learning/what-is-a-non-fungible-token-nft)
 - [Rare Sneaker App Switches From Ethereum to Hedera to Skip Blockchain Fees](https://www.coindesk.com/suku-sneaker-app-switches-from-ethereum-to-hedera-hashgraph)
+- [Building an NFT Auction on Hedera Hashgraph](https://hedera.com/blog/building-nft-auction-on-hedera)
 
 ### **NFT Podcasts**
 
