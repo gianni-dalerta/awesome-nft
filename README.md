@@ -53,7 +53,7 @@ Table of contents
 ## **Project Spotlight** (Feel free to contribute to the list)
  - [Eulerbeats](https://eulerbeats.com)
  - [Crypto Corgis](https://cryptocorgis.co)
- - [Nifty Ink](https://cryptocorgis.co)
+ - [Nifty Ink](https://nifty.ink/)
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
  - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
 
