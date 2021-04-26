@@ -305,6 +305,7 @@ Table of contents
 ## **NFT Philanthropy**
 
 - [CryptoCorals](https://cryptocorals.co/)
+- [Project Ark (WWF)](https://project-ark.co)
 
 ## **Discovery**
 
