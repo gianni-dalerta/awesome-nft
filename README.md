@@ -35,6 +35,7 @@ Table of contents
 * [NFT Art](#nft-art)
 * [NFT Music](#nft-music)
 * [NFT DeFi](#nft-defi)
+* [NFT Explorers](#nft-explorers)
 * [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
 * [NFT Business](#nft-business)
@@ -56,6 +57,7 @@ Table of contents
  - [Nifty Ink](https://nifty.ink/)
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
  - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
+ - [Authenticated Non-Fungible Tokens (NFT) Index](https://nftndx.io/)
 
 ## **Distributed Ledgers**
 
@@ -251,6 +253,10 @@ Table of contents
 - [NFY](https://nfy.finance/)
 - [Unifty](https://unifty.io/)
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
+
+## **NFT Explorers**
+
+- [NFTNDX.IO](https://nftndx.io)
 
 ## **NFT Fundraising**
 
