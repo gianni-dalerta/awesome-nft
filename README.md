@@ -103,6 +103,8 @@ Table of contents
 
 ### **NFT Enabled Communities**
 
+- [VeeFriends](https://www.veefriends.com/)
+
 ### **Twitter List**
 
 - [Gianni's NFT Twitter List](https://twitter.com/GianniDalerta/lists/nft)
