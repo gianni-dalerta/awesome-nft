@@ -244,8 +244,10 @@ Table of contents
 ## **NFT Music**
 
 - [EulerBeats](https://eulerbeats.com/)
-- [XLR8R](https://xlr8r.com)
 - [HashMelody](https://hashmelody.com)
+- [Songcamp - music + the new internet](https://songcamp.mirror.xyz/)
+- [XLR8R](https://xlr8r.com)
+
 
 ## **NFT Defi**
 
