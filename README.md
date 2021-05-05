@@ -299,6 +299,7 @@ Table of contents
 - [MakersPlace](https://makersplace.com/)
 - [Mintable](https://mintable.app/)
 - [Nifty Gateway](https://niftygateway.com/#/home)
+- [NiftyKit](https://niftykit.com/)
 - [OpenSea.io](https://opensea.io/)
 - [Portion](http://portion.io/)
 - [Rarible](https://rarible.com/)
@@ -325,6 +326,7 @@ Table of contents
 ### **NFT Minters**
 
 - [ethmoji](https://ethmoji.io/)
+- [NiftyKit](https://niftykit.com/)
 - [KodaDot](https://nft.kodadot.xyz)
 - [OpenSea.io](https://opensea.io/)
 - [Ownerfy](https://shop.ownerfy.com/)
