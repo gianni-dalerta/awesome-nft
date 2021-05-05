@@ -58,6 +58,7 @@ Table of contents
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
  - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
  - [Authenticated Non-Fungible Tokens (NFT) Index](https://nftndx.io/)
+ - [nft.storage (free decentralized storage for NFTs on IPFS & Filecoin)](https://nft.storage/)
 
 ## **Distributed Ledgers**
 
