@@ -243,6 +243,7 @@ Table of contents
 
 - [EulerBeats](https://eulerbeats.com/)
 - [XLR8R](https://xlr8r.com)
+- [HashMelody](https://hashmelody.com)
 
 ## **NFT Defi**
 
