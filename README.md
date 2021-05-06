@@ -286,6 +286,7 @@ Table of contents
 
 ## **NFT Business**
 
+- [Artcryption](https://artcryption.com/)
 - [Centrifuge](http://www.centrifuge.io/)
 - [ENS Nifty](https://ensnifty.com/)
 
