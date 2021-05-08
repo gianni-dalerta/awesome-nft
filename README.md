@@ -51,14 +51,11 @@ Table of contents
 * [NFT Carbon Footprint](#nft-carbon-footprint)
 <!--te-->
 
-## **Project Spotlight** (Feel free to contribute to the list)
+## **Project Spotlight**
  - [Eulerbeats](https://eulerbeats.com)
- - [Crypto Corgis](https://cryptocorgis.co)
  - [Nifty Ink](https://nifty.ink/)
  - [Scaffold-eth (everything you need for DApp & NFT development)](https://github.com/austintgriffith/scaffold-eth)
- - [Ethermore (An emerging fantasy world, built on the blockchain)](https://ethermore.xyz/)
  - [Authenticated Non-Fungible Tokens (NFT) Index](https://nftndx.io/)
- - [nft.storage (free decentralized storage for NFTs on IPFS & Filecoin)](https://nft.storage/)
 
 ## **Distributed Ledgers**
 
