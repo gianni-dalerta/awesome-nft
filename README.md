@@ -172,6 +172,7 @@ Table of contents
 
 ## Resources, frameworks, blockchain orchestration, testing, and command line interface.
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
+- [Clevis](https://github.com/austintgriffith/clevis)
 - [0xcert Framework](https://github.com/0xcert/framework/)
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
