@@ -176,6 +176,7 @@ Table of contents
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
 - [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
+- [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 
 ## **NFT Games**
 
@@ -347,13 +348,6 @@ Table of contents
 - [Trust Wallet](https://trustwalletapp.com/)
 - [DexWallet](https://www.dexwallet.io/)
 - [CoinBase Wallet](https://wallet.coinbase.com/)
-
-## **Resources, frameworks, blockchain orchestration, testing, and command line interface.**
-
-- [Clevis](https://github.com/austintgriffith/clevis)
-- [0xcert Framework](https://github.com/0xcert/framework/)
-- [NFTE](https://nfte.app/)
-- [Check My NFT](https://checkmynft.com/)
 
 ## **NFT Carbon Footprint**
 
