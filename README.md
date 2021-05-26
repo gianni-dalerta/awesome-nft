@@ -241,7 +241,7 @@ Table of contents
 
 ## **NFT IRL**
 - [Bright Moments Gallery & DAO](https://brightmoments.io/)
-- [Black Dov](https://www.blackdove.com/)
+- [Black Dove](https://www.blackdove.com/)
 
 ## **NFT Music**
 
