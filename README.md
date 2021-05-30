@@ -285,6 +285,7 @@ Table of contents
 - [NBA Top Shot](https://nbatopshot.com/)
 - [Bullionix](https://bullionix.io/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [PokéPalettes](https://opensea.io/collection/pokepalettes) [[source](https://github.com/BarryMode/pokepalettes)]
 
 ## **NFT Business**
 
