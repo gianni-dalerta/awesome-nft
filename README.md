@@ -332,6 +332,7 @@ Table of contents
 
 ### **NFT Minters**
 
+- [CocoNFT](https://coconft.com/)
 - [ethmoji](https://ethmoji.io/)
 - [NiftyKit](https://niftykit.com/)
 - [KodaDot](https://nft.kodadot.xyz)
@@ -339,6 +340,8 @@ Table of contents
 - [Ownerfy](https://shop.ownerfy.com/)
 - [Rarible](https://rarible.com/)
 - [Unifty](https://unifty.io/)
+- [Valuables by Cent](https://v.cent.co/)
+
 
 ## **Composables**
 
