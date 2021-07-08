@@ -2,7 +2,7 @@ Follow me [Twitter](https://twitter.com/GianniDalerta)
 Visit Me [GianniDalerta.com](https://giannidalerta.com)
 
 # Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of awesome Non Fungible Token (NFT, ERC721) frameworks, libraries and software.
+A curated list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, libraries and software.
 
 Table of contents
 =================
@@ -119,7 +119,7 @@ Table of contents
 - [Genesis](https://hack.ethglobal.co/showcase/genesis-recCJSTINRc1TDy54)
 - [BurstNFT](https://hack.ethglobal.co/showcase/burst-nft-recIALHiB7gXWsaAE)
 - [Pooch](https://hack.ethglobal.co/showcase/pooch-recWdMBcvH8LsMZvR)
-- [Cashcow](https://hack.ethglobal.co/showcase/cashcow-%F0%9F%90%AE-recLo6lxmlKAKKGX0) 
+- [Cashcow](https://hack.ethglobal.co/showcase/cashcow-%F0%9F%90%AE-recLo6lxmlKAKKGX0)
 - [NFT Gallery](https://hack.ethglobal.co/showcase/nft-gallery-rec0ZuNfFrJAIaTcL)
 - [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
 - [Hashchain](https://hack.ethglobal.co/showcase/hashchain-recIkfZwbN7FfYSTs)
