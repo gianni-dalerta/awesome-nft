@@ -249,6 +249,7 @@ Table of contents
 - [HashMelody](https://hashmelody.com)
 - [Songcamp - music + the new internet](https://songcamp.mirror.xyz/)
 - [XLR8R](https://xlr8r.com)
+- [BrokenJazz](https://brokenjazz.cc)
 
 
 ## **NFT Defi**
