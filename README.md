@@ -173,12 +173,14 @@ Table of contents
 
 ## Resources, frameworks, blockchain orchestration, testing, and command line interface.
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
+- [Rarepress](https://rarepress.org/)
 - [Clevis](https://github.com/austintgriffith/clevis)
 - [0xcert Framework](https://github.com/0xcert/framework/)
 - [NFTE](https://nfte.app/)
 - [Check My NFT](https://checkmynft.com/)
 - [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
+- [NFT Multisender](https://nft.multisender.app/)
 
 ## **NFT Games**
 
@@ -254,15 +256,16 @@ Table of contents
 
 ## **NFT Defi**
 
+- [Aavegotchi](https://aavegotchi.com/)
 - [Charged Particles](https://app.charged.fi/go/leptons) by [robsecord.eth](https://twitter.com/robsecord)
 - [NFTX](https://nftx.org/)
 - [NFT20](https://nft20.io/)
-- [Aavegotchi](https://aavegotchi.com/)
 - [NFTfi](https://nftfi.com/)
 - [NFY](https://nfy.finance/)
+- [NIFTEX](https://www.niftex.org/)
 - [Unifty](https://unifty.io/)
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
-- [NFT Multisender](https://nft.multisender.app/)
+
 
 ## **NFT Explorers**
 
