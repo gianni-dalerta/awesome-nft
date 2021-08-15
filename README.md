@@ -261,6 +261,7 @@ Table of contents
 - [NFY](https://nfy.finance/)
 - [Unifty](https://unifty.io/)
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
+- [NFT Multisender](https://nft.multisender.app/)
 
 ## **NFT Explorers**
 
