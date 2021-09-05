@@ -290,6 +290,7 @@ Table of contents
 - [NBA Top Shot](https://nbatopshot.com/)
 - [Bullionix](https://bullionix.io/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [The SneakerHeadz Society](https://tssnft.com)
 
 ## **NFT Business**
 
