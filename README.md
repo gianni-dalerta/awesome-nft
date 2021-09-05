@@ -303,6 +303,7 @@ Table of contents
 
 ## **NFT Marketplaces**
 
+- [ART.HAUS](https://art.haus)
 - [Async.art](https://async.art/)
 - [Cargo](https://cargo.build/)
 - [CryptoSlam.io](https://www.cryptoslam.io/)
