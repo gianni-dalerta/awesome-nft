@@ -13,6 +13,9 @@ Table of contents
   * [Ethereum](#ethereum)
   * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
+  * [Polkadot and Kusama](#polkadot-and-kusama)
+  * [Hedera Token Service](#hedera-token-service)
+  * [Tezos](#tezos)
 * [NFT Commmunity](#nft-commmunity)
   * [DAOs](#daos)
   * [Discord](#discord)
@@ -75,13 +78,17 @@ Table of contents
 ### **Flow Blockchain**
 
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
-### **Polkadot/Kusama**
+### **Polkadot and Kusama**
 
-- [RMRK](https://github.com/rmrk-team/rmrk-spec)
+- [RMRK](https://github.com/rmrk-team/rmrk-spec) - standard set for nested, equippable, composable, multi-resource NFTs with on-chain emotes. [Video explainer](https://url.rmrk.app/rmrkccawe) / [writeup](https://url.rmrk.app/dawnawe).
 
 ### **Hedera Token Service**
 
 - [HTS](https://hedera.com/token-service)
+
+### **Tezos**
+
+- See [NFT section of Awesome List](https://github.com/kevinelliott/awesome-tezos#tokens)
 
 ## NFT Tutorials
 
@@ -98,6 +105,7 @@ Table of contents
 
 - [CryptoDevs](https://discord.gg/EDA6M3R)
 - [NonFungible.Com](https://discord.gg/3WQ5sT4Dpj)
+- [Clean NFTs Discord](https://discord.gg/jCwm7A6ZJB)
 
 ### **NFT Enabled Communities**
 
@@ -135,6 +143,7 @@ Table of contents
 ### **Newsletters**
 
 - [NFTY News](https://medium.com/nfty-news) by [Brian Flynn](https://medium.com/@brianubiquik)
+- [NFT Review](https://news.nft.review) by [Bruno Škvorc](https://twitter.com/bitfalls)
 
 ### **News**
 
@@ -152,6 +161,7 @@ Table of contents
 - [Crypto Stories: A Primer on Non-Fungible Tokens](https://www.spreaker.com/user/10197011/amitt-mahajan-tony-sheng) from [Venture Stories](https://www.spreaker.com/show/venture-stories)
 - [A New Media Structure: The Ownership Economy](https://darkstar.mirror.xyz/srmoGiN_1pg_toQGzCupkjWFOaf8xi0mM60zYpn_pwI) by Jarrod Dicker
 - [A beginner’s guide to NFTs](https://linda.mirror.xyz/df649d61efb92c910464a4e74ae213c4cab150b9cbcc4b7fb6090fc77881a95d) by Linda Xie
+- [The last NFT explainer you'll ever need](https://bitfalls.com/nft) by [Bitfalls.com](https://bitfalls.com)
 - [Understanding Blockchain-powered Non-Fungible Tokens (NFTs)](https://chuta.medium.com/understanding-blockchain-powered-non-fungible-tokens-nfts-cef88850a133) by [Chimezie Chuta](https://chuta.medium.com)
 - [Re-Fungible Token (RFT)](https://medium.com/@billyrennekamp/re-fungible-token-rft-297003592769) by [Billy Rennekamp](https://medium.com/@billyrennekamp)
 - [The Playful Paradigm Shift](https://blog.coinbase.com/the-playful-paradigm-shift-4bf35d9d1d11) by [Jacob Horne](https://blog.coinbase.com/@jacobscott)
@@ -163,6 +173,7 @@ Table of contents
 - [What is a non-fungible token (NFT)?](https://hedera.com/learning/what-is-a-non-fungible-token-nft)
 - [Rare Sneaker App Switches From Ethereum to Hedera to Skip Blockchain Fees](https://www.coindesk.com/suku-sneaker-app-switches-from-ethereum-to-hedera-hashgraph)
 - [Building an NFT Auction on Hedera Hashgraph](https://hedera.com/blog/building-nft-auction-on-hedera)
+- [Dawn of the Art Legos](https://url.rmrk.app/dawnawe) by [Bruno Škvorc](https://twitter.com/bitfalls)
 
 ### **NFT Podcasts**
 
@@ -181,6 +192,7 @@ Table of contents
 - [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [NFT Multisender](https://nft.multisender.app/)
+- [RMRK tools](https://github.com/rmrk-team/rmrk-tools/)
 
 ## **NFT Games**
 
@@ -214,12 +226,14 @@ Table of contents
 - [War Riders](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
+- [Kanaria](https://kanaria.rmrk.app)
 
 ## **NFT Platforms**
 
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
 - [Hoard](https://www.hoard.exchange/)
+- [Singular by RMRK](https://singular.rmrk.app) 
 
 ## **NFT Art**
 
@@ -240,6 +254,7 @@ Table of contents
 - [EtherPalace](https://pachunka.github.io/EtherPalace/palace.html)
 - [EthBlockArt](https://ethblock.art/)
 - [BASTARD GAN PUNKS](https://bastardganpunks.club/)
+- [Singular](https://singular.rmrk.app)
 
 ## **NFT IRL**
 - [Bright Moments Gallery & DAO](https://brightmoments.io/)
@@ -290,6 +305,7 @@ Table of contents
 - [NBA Top Shot](https://nbatopshot.com/)
 - [Bullionix](https://bullionix.io/)
 - [Aavegotchi](https://aavegotchi.com/)
+- [Kanaria](https://kanaria.rmrk.app)
 
 ## **NFT Business**
 
@@ -346,6 +362,7 @@ Table of contents
 - [Rarible](https://rarible.com/)
 - [Unifty](https://unifty.io/)
 - [Valuables by Cent](https://v.cent.co/)
+- [Singular](https://singular.rmkr.app)
 
 
 ## **Composables**
@@ -353,6 +370,7 @@ Table of contents
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
 - [CryptoRome](https://www.cryptorome.io/)
+- [Kanaria](https://kanaria.rmrk.app) via [RMRK](https://rmrk.app)
 
 ## **NFT Wallets**
 
