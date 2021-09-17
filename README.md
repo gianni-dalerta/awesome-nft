@@ -188,6 +188,7 @@ Table of contents
 - [Aavegotchi](https://aavegotchi.com/)
 - [Axie Infinity](https://land.axieinfinity.com/?r=DappRadar&utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website)
 - [Cometh](https://cometh.io/)
+- [Citymayor](https://citymayor.co/)
 - [Crypto Assault](https://cryptoassault.io/)
 - [CryptoFighters](https://cryptofighters.io/)
 - [CryptoFights](https://cryptofights.io/)
