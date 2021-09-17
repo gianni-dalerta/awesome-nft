@@ -42,6 +42,7 @@ Table of contents
 * [NFT Explorers](#nft-explorers)
 * [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
+* [NFT PFP](#nft-pfp)
 * [NFT Business](#nft-business)
 * [NFT Badges](#nft-badges)
 * [NFT Marketplaces](#nft-marketplaces)
@@ -132,8 +133,6 @@ Table of contents
 - [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
 - [Hashchain](https://hack.ethglobal.co/showcase/hashchain-recIkfZwbN7FfYSTs)
 
-
-
 ### **Associations**
 
 - [The Non-Fungible Alliance](https://nonfungiblealliance.org/)
@@ -198,8 +197,8 @@ Table of contents
 
 - [00xuniverse](https://0xuniverse.com/)
 - [Aavegotchi](https://aavegotchi.com/)
-- [Axie Infinity](https://land.axieinfinity.com/?r=DappRadar&utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website)
 - [Cometh](https://cometh.io/)
+- [Citymayor](https://citymayor.co/)
 - [Crypto Assault](https://cryptoassault.io/)
 - [CryptoFighters](https://cryptofighters.io/)
 - [CryptoFights](https://cryptofights.io/)
@@ -216,6 +215,7 @@ Table of contents
 - [Gods Unchained](https://t.co/UmGG9FzqQB)
 - [Hedgie](https://www.hedgie.io/)
 - [HyperDragons](https://hyperdragons.alfakingdom.com/)
+- [LOOT](https://www.lootproject.com/)
 - [Mythereum](https://www.mythereum.io/)
 - [Mooncats](https://mooncatrescue.com/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website)
 - [My Crypto Heros](https://www.mycryptoheroes.net/)
@@ -228,6 +228,11 @@ Table of contents
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
 - [Kanaria](https://kanaria.rmrk.app)
 
+### **NFT Play-to-Earn**
+- [Axie Infinity](https://axieinfinity.com/)
+- [Riot Racers](http://riot.fun/)
+- [ZED](https://zed.run/)
+
 ## **NFT Platforms**
 
 - [Enjin Coin](https://enjincoin.io/)
@@ -237,28 +242,28 @@ Table of contents
 
 ## **NFT Art**
 
-- [CryptoPunk](https://dappradar.com/ethereum/collectibles/cryptopunks) (The Very First NFT)
-- [Nifty.ink](https://nifty.ink/) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
-- [SuperRare](https://superrare.co/)
-- [Portion](https://portion.io/)
+- [Art Blocks](https://artblocks.io/)
+- [Codex](https://codexprotocol.com/)
 - [CryptoArte](https://www.cryptoarte.io/)
 - [CryptoCanvas](https://rinkeby.cryptocanvas.art/)
 - [Dada NYC](https://dada.nyc/)
 - [DigitalArtChain](http://digitalartchain.com/)
-- [John Orion Young](https://www.johnorionyoung.com/)
 - [Digital Objects](https://digitalobjects.art/) by [Ryan Duffy](https://twitter.com/vidmeduffy)
-- [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
-- [KwownOrigin](https://knownorigin.io/)
-- [Codex](https://codexprotocol.com/)
-- [Hashmasks](https://www.thehashmasks.com/)
 - [EtherPalace](https://pachunka.github.io/EtherPalace/palace.html)
 - [EthBlockArt](https://ethblock.art/)
-- [BASTARD GAN PUNKS](https://bastardganpunks.club/)
-- [Singular](https://singular.rmrk.app)
+- [Foundation](https://foundation.app/)
+- [John Orion Young](https://www.johnorionyoung.com/)
+- [KwownOrigin](https://knownorigin.io/)
+- [NFTcuba.art](https://nftcuba.art)
+- [Nifty.ink](https://nifty.ink/) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
+- [Portion](https://portion.io/)
+- [SuperRare](https://superrare.co/)
+- [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 
 ## **NFT IRL**
 - [Bright Moments Gallery & DAO](https://brightmoments.io/)
 - [Black Dove](https://www.blackdove.com/)
+- [Infinite Objects](https://infiniteobjects.com/)
 
 ## **NFT Music**
 
@@ -307,6 +312,17 @@ Table of contents
 - [Aavegotchi](https://aavegotchi.com/)
 - [Kanaria](https://kanaria.rmrk.app)
 
+## **NFT PFP**
+- [BASTARD GAN PUNKS](https://bastardganpunks.club/)
+- [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)
+- [Cool Cats](https://www.coolcatsnft.com/)
+- [Crypto Dads](https://www.cryptodadsnft.com/)
+- [CryptoPunk](https://dappradar.com/ethereum/collectibles/cryptopunks) (One of the Very First NFTs)
+- [Hashmasks](https://www.thehashmasks.com/)
+- [Knights of Degen](https://www.knightsofdegen.io/)
+- [The SneakerHeadz Society](https://tssnft.com)
+
+
 ## **NFT Business**
 
 - [Artcryption](https://artcryption.com/)
@@ -319,6 +335,7 @@ Table of contents
 
 ## **NFT Marketplaces**
 
+- [ART.HAUS](https://art.haus)
 - [Async.art](https://async.art/)
 - [Cargo](https://cargo.build/)
 - [CryptoSlam.io](https://www.cryptoslam.io/)
@@ -331,6 +348,7 @@ Table of contents
 - [OpenSea.io](https://opensea.io/)
 - [Portion](http://portion.io/)
 - [Rarible](https://rarible.com/)
+- [Singular](https://singular.rmrk.app)
 - [SuperRare](https://superrare.co/)
 - [Wax](https://wax.io/)
 - [Unifty](https://unifty.io/)
