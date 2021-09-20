@@ -143,6 +143,7 @@ Table of contents
 
 - [NFTY News](https://medium.com/nfty-news) by [Brian Flynn](https://medium.com/@brianubiquik)
 - [NFT Review](https://news.nft.review) by [Bruno Škvorc](https://twitter.com/bitfalls)
+- [Nifty Road](https://niftyroad.io)
 
 ### **News**
 
