@@ -16,7 +16,7 @@ Table of contents
   * [Polkadot and Kusama](#polkadot-and-kusama)
   * [Hedera Token Service](#hedera-token-service)
   * [Tezos](#tezos)
-* [NFT Commmunity](#nft-commmunity)
+* [NFT Community](#nft-community)
   * [DAOs](#daos)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
@@ -100,7 +100,7 @@ Table of contents
 - [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
 - [Hedera Token Service Demo: Token configuration, issuance, and transfer](https://www.youtube.com/watch?v=aEFm4bdnsBI)
 
-## **NFT Commmunity**
+## **NFT Community**
 
 ### **Discord**
 
@@ -238,7 +238,7 @@ Table of contents
 - [Enjin Coin](https://enjincoin.io/)
 - [Horizon Games](https://horizongames.net/)
 - [Hoard](https://www.hoard.exchange/)
-- [Singular by RMRK](https://singular.rmrk.app) 
+- [Singular by RMRK](https://singular.rmrk.app)
 
 ## **NFT Art**
 
@@ -320,6 +320,7 @@ Table of contents
 - [CryptoPunk](https://dappradar.com/ethereum/collectibles/cryptopunks) (One of the Very First NFTs)
 - [Hashmasks](https://www.thehashmasks.com/)
 - [Knights of Degen](https://www.knightsofdegen.io/)
+- [Lazy Lions](https://www.lazylionsnft.com/)
 - [The SneakerHeadz Society](https://tssnft.com)
 
 
