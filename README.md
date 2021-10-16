@@ -7,7 +7,6 @@ A curated list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, 
 Table of contents
 =================
 
-<!--ts-->
 * [Project Spotlight](#Project-Spotlight)
 * [Blockchains](#blockchains)
   * [Ethereum](#ethereum)
