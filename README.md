@@ -351,6 +351,7 @@ Table of contents
 - [Nifty.ink](https://nifty.ink/) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
 - [Portion](https://portion.io/)
 - [SuperRare](https://superrare.co/)
+- [Wallkanda](http://wallkanda.art/) for street art
 - [WeeeArt](https://art.weee.network/) by [David Sun](https://medium.com/@davidsun_93561)
 
 ## **NFT IRL**
