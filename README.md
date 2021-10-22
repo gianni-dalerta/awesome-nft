@@ -120,6 +120,10 @@ Table of contents
 - [NonFungible.Com](https://discord.gg/3WQ5sT4Dpj)
 - [Clean NFTs Discord](https://discord.gg/jCwm7A6ZJB)
 
+### **Telegram Group**
+
+- [LobsterDAO's NFT Avenue](https://t.me/NFT_avenue)
+
 ### **NFT Enabled Communities**
 
 - [VeeFriends](https://www.veefriends.com/)
