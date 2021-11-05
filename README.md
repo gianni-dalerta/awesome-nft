@@ -227,6 +227,7 @@ Table of contents
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [NFT Multisender](https://nft.multisender.app/)
 - [RMRK tools](https://github.com/rmrk-team/rmrk-tools/)
+- [nftool](https://github.com/alephao/nftool) - A suite of tools for NFT pfp.
 
 ## **NFT Games**
 
