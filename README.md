@@ -40,8 +40,10 @@ Table of contents
 * [NFT Art](#nft-art)
 * [NFT IRL](#nft-irl)
 * [NFT Music](#nft-music)
+* [NFT Sports](#nft-sports)
 * [NFT DeFi](#nft-defi)
 * [NFT Explorers](#nft-explorers)
+* [NFT Portfolios](#nft-portfolios)
 * [NFT Fundraising](#nft-fundraising)
 * [NFT Collectables](#nft-collectables)
 * [NFT PFP](#nft-pfp)
@@ -266,7 +268,6 @@ Table of contents
 - [War Riders](https://warriders.com/)
 - [World of Ether](https://worldofether.com/)
 - [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
-- [Kanaria](https://kanaria.rmrk.app)
 
 ### **NFT Play-to-Earn**
 - [Axie Infinity](https://axieinfinity.com/)
@@ -288,54 +289,6 @@ Table of contents
 - [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [NFT Multisender](https://nft.multisender.app/)
-
-## **NFT Games**
-
-- [00xuniverse](https://0xuniverse.com/)
-- [Aavegotchi](https://aavegotchi.com/)
-- [Cometh](https://cometh.io/)
-- [Citymayor](https://citymayor.co/)
-- [Crypto Assault](https://cryptoassault.io/)
-- [CryptoFighters](https://cryptofighters.io/)
-- [CryptoFights](https://cryptofights.io/)
-- [Cryptogs](https://cryptogs.io/)
-- [CryptoKitties](https://www.cryptokitties.co/)
-- [CryptoRome](https://www.cryptorome.io/)
-- [CryptoSaga](https://cryptosaga.io/)
-- [Cryptovoxels](https://www.cryptovoxels.com/)
-- [Decentraland](https://decentraland.org/)
-- [Ember Sword](https://socouch.com/)
-- [Ether Kingdoms](https://wax.io/)
-- [Galleass](https://austingriffith.com/portfolio/galleass/)
-- [Gizer](https://gizer.io/)
-- [Gods Unchained](https://t.co/UmGG9FzqQB)
-- [Hedgie](https://www.hedgie.io/)
-- [HyperDragons](https://hyperdragons.alfakingdom.com/)
-- [LOOT](https://www.lootproject.com/)
-- [Mythereum](https://www.mythereum.io/)
-- [Mooncats](https://mooncatrescue.com/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website)
-- [My Crypto Heros](https://www.mycryptoheroes.net/)
-- [Neon District](https://neondistrict.io/)
-- [NBA Top Shot](https://www.nbatopshot.com/?utm_source=DappRadar&utm_medium=deeplink&utm_campaign=visit-website) (Hot)
-- [SkyWeaver](https://skyweaver.net/)
-- [WarCrypto](https://warofcrypto.io/)
-- [War Riders](https://warriders.com/)
-- [World of Ether](https://worldofether.com/)
-- [WORLDWIDE WEB3](https://www.crypto-weebs.com/)
-
-### **NFT Play-to-Earn**
-- [Axie Infinity](https://axieinfinity.com/)
-- [Riot Racers](http://riot.fun/)
-- [ZED](https://zed.run/)
-
-## **NFT Platforms**
-
-- [Enjin Coin](https://enjincoin.io/)
-- [Horizon Games](https://horizongames.net/)
-- [Hoard](https://www.hoard.exchange/)
-- [Enjin Coin](https://enjincoin.io/)
-- [Horizon Games](https://horizongames.net/)
-- [Hoard](https://www.hoard.exchange/)
 - [Singular by RMRK](https://singular.rmrk.app) 
 
 ## **NFT Art**
@@ -373,6 +326,10 @@ Table of contents
 - [XLR8R](https://xlr8r.com)
 - [BrokenJazz](https://brokenjazz.cc)
 
+## **NFT Sports**
+
+- [Knights of Degen](https://www.knightsofdegen.io/)
+- [LinksDAO](https://t.co/uMmcBIeaxd)
 
 ## **NFT Defi**
 
@@ -389,8 +346,15 @@ Table of contents
 
 ## **NFT Explorers**
 
+- [CryptoSlam.io](https://www.cryptoslam.io/)
 - [NFTNDX.IO](https://nftndx.io)
 - [Momentranks.com](https://momentranks.com)
+
+## **NFT Portfolios**
+
+- [Floors NFTs App](https://www.floornfts.io/)
+- [NFTbank](https://NFTbank.ai/)
+
 
 ## **NFT Fundraising**
 
@@ -398,20 +362,6 @@ Table of contents
 
 ## **NFT Collectables**
 
-* [CryptoCorals](https://cryptocorals.co/)
-* [CryptoKitties](https://www.cryptokitties.co/)
-* [CryptoCrystal](https://cryptocrystal.io/)
-* [CryptoPunks](https://www.larvalabs.com/cryptopunks)
-* [Hedgie](https://www.hedgie.io/)
-* [ECOMI](https://www.ecomi.com/)
-* [Kudos](https://gitcoin.co/kudos/) by [Gitcoin](https://gitcoin.co/)
-* [MLB Crypto Baseball](https://mlbcryptobaseball.com/)
-* [CryptoStrikers](https://www.cryptostrikers.com/)
-* [EtherTulips](https://ethertulips.com/)
-* [NBA Top Shot](https://nbatopshot.com/)
-* [Bullionix](https://bullionix.io/)
-* [Aavegotchi](https://aavegotchi.com/)
-* [Kanaria](https://kanaria.rmrk.app)
 - [CryptoCorals](https://cryptocorals.co/)
 - [CryptoKitties](https://www.cryptokitties.co/)
 - [CryptoCrystal](https://cryptocrystal.io/)
@@ -437,7 +387,6 @@ Table of contents
 - [Knights of Degen](https://www.knightsofdegen.io/)
 - [The SneakerHeadz Society](https://tssnft.com)
 
-
 ## **NFT Business**
 
 - [Artcryption](https://artcryption.com/)
@@ -450,28 +399,9 @@ Table of contents
 
 ## **NFT Marketplaces**
 
-* [ART.HAUS](https://art.haus)
-* [Async.art](https://async.art/)
-* [Cargo](https://cargo.build/)
-* [CryptoSlam.io](https://www.cryptoslam.io/)
-* [GhostMarket](https://ghostmarket.io/)
-* [KodaDot](https://nft.kodadot.xyz)
-* [MakersPlace](https://makersplace.com/)
-* [Mintable](https://mintable.app/)
-* [Nifty Gateway](https://niftygateway.com/#/home)
-* [NiftyKit](https://niftykit.com/)
-* [OpenSea.io](https://opensea.io/)
-* [Portion](http://portion.io/)
-* [Rarible](https://rarible.com/)
-* [Singular](https://singular.rmrk.app)
-* [SuperRare](https://superrare.co/)
-* [Wax](https://wax.io/)
-* [Unifty](https://unifty.io/)
-* [Unique.One](https://www.unique.one/)
 - [ART.HAUS](https://art.haus)
 - [Async.art](https://async.art/)
 - [Cargo](https://cargo.build/)
-- [CryptoSlam.io](https://www.cryptoslam.io/)
 - [GhostMarket](https://ghostmarket.io/)
 - [KodaDot](https://nft.kodadot.xyz)
 - [MakersPlace](https://makersplace.com/)
@@ -504,16 +434,6 @@ Table of contents
 
 ### **NFT Minters**
 
-* [CocoNFT](https://coconft.com/)
-* [ethmoji](https://ethmoji.io/)
-* [NiftyKit](https://niftykit.com/)
-* [KodaDot](https://nft.kodadot.xyz)
-* [OpenSea.io](https://opensea.io/)
-* [Ownerfy](https://shop.ownerfy.com/)
-* [Rarible](https://rarible.com/)
-* [Unifty](https://unifty.io/)
-* [Valuables by Cent](https://v.cent.co/)
-* [Singular](https://singular.rmkr.app)
 - [CocoNFT](https://coconft.com/)
 - [ethmoji](https://ethmoji.io/)
 - [NiftyKit](https://niftykit.com/)
@@ -528,10 +448,7 @@ Table of contents
 
 ## **Composables**
 
-* [Mokens](https://mokens.io/)
-* [Mintable](https://mintable.app/)
-* [CryptoRome](https://www.cryptorome.io/)
-* [Kanaria](https://kanaria.rmrk.app) via [RMRK](https://rmrk.app)
+
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
 - [CryptoRome](https://www.cryptorome.io/)
@@ -550,8 +467,6 @@ Table of contents
 - [CoinBase Wallet](https://wallet.coinbase.com/)
 
 ## **NFT Carbon Footprint**
-
-
 
 The NFT Carbon footprint is subject to a lot of debates and depends on the blockchain technology used, especially its consensus mechanism: Proof of Work, Proof of Stake, Proof of Elapsed Time...
 One should know that the Proof of Work (PoW) requires an important amount of energy as it is a computational competition. This amount is considerably higher than other consensus mechanisms but it is still hard to have a precise estimation of the consumed energy.
