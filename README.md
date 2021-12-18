@@ -346,6 +346,7 @@ Table of contents
 - [EtherPalace](https://pachunka.github.io/EtherPalace/palace.html)
 - [EthBlockArt](https://ethblock.art/)
 - [Foundation](https://foundation.app/)
+- [GEN.ART](https://gen.art/)
 - [John Orion Young](https://www.johnorionyoung.com/)
 - [KwownOrigin](https://knownorigin.io/)
 - [NFTcuba.art](https://nftcuba.art)
