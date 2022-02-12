@@ -393,6 +393,7 @@ Table of contents
 - [Hashmasks](https://www.thehashmasks.com/)
 - [Knights of Degen](https://www.knightsofdegen.io/)
 - [The SneakerHeadz Society](https://tssnft.com)
+- [Alpha Worms](https://opensea.io/collection/alpha-worms)
 
 ## **NFT Business**
 
