@@ -57,9 +57,9 @@ Table of contents
 * [NFT Business](#nft-business)
 * [NFT Badges](#nft-badges)
 * [NFT Marketplaces](#nft-marketplaces)
+* [NFT Aggregators](#nft-aggregators)
 * [NFT Showcases](#nft-showcases)
 * [NFT Philanthropy](#nft-philanthropy)
-* [Marketplaces](#marketplaces)
 * [Generators](#generators)
   * [NFT Minters](#nft-minters)
 * [Composables](#composables)
@@ -128,6 +128,7 @@ Table of contents
 - [CryptoDevs](https://discord.gg/EDA6M3R)
 - [NonFungible.Com](https://discord.gg/3WQ5sT4Dpj)
 - [Clean NFTs Discord](https://discord.gg/jCwm7A6ZJB)
+- [icy.tools](https://icy.community)
 
 ### **Telegram Group**
 
@@ -178,6 +179,7 @@ Table of contents
 - [The Crypto Collectors](https://thecryptocollectors.com/)
 - [Cointelegraph's NFT Week magazine](https://cointelegraph.com/magazine/nft-week)
 - [Dappradar's NFT blog](https://dappradar.com/blog/tag/nfts)
+- [The Block's NFT news](https://www.theblockcrypto.com/category/nft)
 
 ### **Gaming**
 
@@ -221,6 +223,7 @@ Table of contents
 - [Rare Sneaker App Switches From Ethereum to Hedera to Skip Blockchain Fees](https://www.coindesk.com/suku-sneaker-app-switches-from-ethereum-to-hedera-hashgraph)
 - [Building an NFT Auction on Hedera Hashgraph](https://hedera.com/blog/building-nft-auction-on-hedera)
 - [Dawn of the Art Legos](https://url.rmrk.app/dawnawe) by [Bruno Škvorc](https://twitter.com/bitfalls)
+- [Ranking Rarity: Understanding Rarity Calculation Methods](https://raritytools.medium.com/ranking-rarity-understanding-rarity-calculation-methods-86ceaeb9b98c) by [Rarity Tools](https://raritytools.medium.com/)
 
 ### **NFT Podcasts**
 
@@ -241,6 +244,7 @@ Table of contents
 - [NFT Multisender](https://nft.multisender.app/)
 - [RMRK tools](https://github.com/rmrk-team/rmrk-tools/)
 - [nftool](https://github.com/alephao/nftool) - A suite of tools for NFT pfp.
+- [NFT API by icy.tools](https://developers.icy.tools/) - A GraphQL NFT API.
 
 ## **NFT Games**
 
@@ -356,11 +360,13 @@ Table of contents
 - [CryptoSlam.io](https://www.cryptoslam.io/)
 - [NFTNDX.IO](https://nftndx.io)
 - [Momentranks.com](https://momentranks.com)
+- [icy.tools](https://icy.tools)
 
 ## **NFT Portfolios**
 
 - [Floors NFTs App](https://www.floornfts.io/)
 - [NFTbank](https://NFTbank.ai/)
+- [icy.tools](https://icy.tools)
 
 
 ## **NFT Fundraising**
@@ -424,6 +430,11 @@ Table of contents
 - [Unifty](https://unifty.io/)
 - [Unique.One](https://www.unique.one/)
 
+## **NFT Aggregators**
+
+- [Genie](https://www.genie.xyz/)
+- [Gem](https://www.gem.xyz/)
+
 ## **NFT Showcases**
 - [Cyber](https://oncyber.io/)
 - [Showtime](https://tryshowtime.com/)
@@ -436,6 +447,7 @@ Table of contents
 ## **Discovery**
 
 - [NonFungible](https://nonfungible.com/)
+- [icy.tools](https://icy.tools/)
 
 ## **Generators**
 
