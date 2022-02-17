@@ -32,6 +32,7 @@ Table of contents
   * [Twitter List](#twitter-list)
 * [Hackathons](#hackathons)
   * [2021 Eth Global NFT Hack](#2021-eth-global-nft-hack-full-showcase)
+* [Conferences](#conferences)
 * [Publications](#publications)
   * [Newsletters](#newsletters)
   * [Gaming](#gaming)
@@ -90,10 +91,12 @@ Table of contents
 ### **Flow Blockchain**
 
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
+
 ### **Polkadot and Kusama**
 
 * [RMRK](https://github.com/rmrk*team/rmrk*spec) * standard set for nested, equippable, composable, multi*resource NFTs with on*chain emotes. [Video explainer](https://url.rmrk.app/rmrkccawe) / [writeup](https://url.rmrk.app/dawnawe).
 - [FLOW Blockchain](https://www.onflow.org/) check out the [Awesome List](https://github.com/gianni-dalerta/awesome-flow)
+
 ### **Polkadot/Kusama**
 
 - [RMRK](https://github.com/rmrk-team/rmrk-spec)
@@ -107,7 +110,7 @@ Table of contents
 
 - See [NFT section of Awesome List](https://github.com/kevinelliott/awesome-tezos#tokens)
 
-## NFT Tutorials
+## **NFT Tutorials**
 
 - [Cryptozombies Tutorial](https://cryptozombies.io/en/lesson/5)
 - [NFT Tutorial Article](https://medium.com/pinata/how-to-build-erc-721-nfts-with-ipfs-e76a21d8f914)
@@ -143,7 +146,9 @@ Table of contents
 - [Rarible](https://twitter.com/rariblecom?lang=en)
 - [NFT Protocol](https://twitter.com/nft_protocol?lang=en)
 
-### 2021 Eth Global NFT Hack [Full Showcase](https://hack.ethglobal.co/nfthack/showcase)
+## **Hackathons**
+
+### **2021 Eth Global NFT Hack [Full Showcase](https://hack.ethglobal.co/nfthack/showcase)**
 - [MysteryDrop](https://hack.ethglobal.co/showcase/mysterydrop-recnAaH5hHt2oH656) - Details on [Medium](https://ipatka.medium.com/nft-box-breaks-how-to-use-the-unique-properties-of-ipfs-content-addressing-to-sell-nfts-before-365b5b1f1ed0) by project lead [Isaac Patka](https://twitter.com/isaacpatka)
 - [hashink](https://hack.ethglobal.co/showcase/hashink-rechIlWuMbBysOmOJ)
 - [SuperRenting](https://hack.ethglobal.co/showcase/superrenting-nft-recGACrXfeSonVIuY)
@@ -157,6 +162,14 @@ Table of contents
 - [NFT Gallery](https://hack.ethglobal.co/showcase/nft-gallery-rec0ZuNfFrJAIaTcL)
 - [NFTY DM](https://hack.ethglobal.co/showcase/nifty-dm-recx1Lf0ybi6fAQJp)
 - [Hashchain](https://hack.ethglobal.co/showcase/hashchain-recIkfZwbN7FfYSTs)
+
+## **Conferences**
+
+- [Miami NFT Week](https://miaminftweek.com/)
+- [NFT NYC](https://www.nft.nyc/)
+- [NFT LA](https://www.nftla.live/)
+- [NFT LA](https://www.nftla.live/)
+- [NFT BZL](https://nftbzl.com/)
 
 ### **Associations**
 
@@ -229,7 +242,7 @@ Table of contents
 - [Lets Talk Bitcoin | E86 - Virtual Worlds, Real Money](https://letstalkbitcoin.com/e86-virtual-worlds-real-money)
 - [Digitally Rare](https://twitter.com/digitallyrare)
 
-## Resources, frameworks, blockchain orchestration, testing, and command line interface.
+## **Resources, frameworks, blockchain orchestration, testing, and command line interface.**
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
 - [Rarepress](https://rarepress.org/)
 - [Clevis](https://github.com/austintgriffith/clevis)
@@ -385,6 +398,7 @@ Table of contents
 - [Kanaria](https://kanaria.rmrk.app)
 
 ## **NFT PFP**
+
 - [BASTARD GAN PUNKS](https://bastardganpunks.club/)
 - [Bored Ape Yacht Club](https://boredapeyachtclub.com/#/)
 - [Cool Cats](https://www.coolcatsnft.com/)
@@ -425,6 +439,7 @@ Table of contents
 - [Unique.One](https://www.unique.one/)
 
 ## **NFT Showcases**
+
 - [Cyber](https://oncyber.io/)
 - [Showtime](https://tryshowtime.com/)
 
@@ -454,7 +469,6 @@ Table of contents
 
 
 ## **Composables**
-
 
 - [Mokens](https://mokens.io/)
 - [Mintable](https://mintable.app/)
