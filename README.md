@@ -230,6 +230,7 @@ Table of contents
 - [Digitally Rare](https://twitter.com/digitallyrare)
 
 ## Resources, frameworks, blockchain orchestration, testing, and command line interface.
+- [NFTPort.xyz](https://docs.nftport.xyz/) - REST APIs for minting NFTs, getting NFT data, and much more
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
 - [Rarepress](https://rarepress.org/)
 - [Clevis](https://github.com/austintgriffith/clevis)
@@ -286,7 +287,7 @@ Table of contents
 * [Enjin Coin](https://enjincoin.io/)
 * [Horizon Games](https://horizongames.net/)
 * [Hoard](https://www.hoard.exchange/)
-* [Singular by RMRK](https://singular.rmrk.app) 
+* [Singular by RMRK](https://singular.rmrk.app)
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
 - [Rarepress](https://rarepress.org/)
 - [Clevis](https://github.com/austintgriffith/clevis)
@@ -296,7 +297,7 @@ Table of contents
 - [minty 🌿](https://github.com/yusefnapora/minty) - how to mint and store on IPFS
 - [useNft()](https://github.com/spectrexyz/use-nft) - 🍮 React hook to fetch metadata from any NFT.
 - [NFT Multisender](https://nft.multisender.app/)
-- [Singular by RMRK](https://singular.rmrk.app) 
+- [Singular by RMRK](https://singular.rmrk.app)
 
 ## **NFT Art**
 
