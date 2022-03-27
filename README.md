@@ -49,6 +49,7 @@ Table of contents
 * [NFT Music](#nft-music)
 * [NFT Sports](#nft-sports)
 * [NFT DeFi](#nft-defi)
+* [NFT Tools](#nft-tools)
 * [NFT Explorers](#nft-explorers)
 * [NFT Portfolios](#nft-portfolios)
 * [NFT Fundraising](#nft-fundraising)
@@ -350,6 +351,9 @@ Table of contents
 - [Unifty](https://unifty.io/)
 - [Node Runners](https://wiki.metagame.wtf/docs/great-houses/house-of-daos)
 
+## **NFT Tools**
+
+- [letNFTin.com](https://letnftin.com/) - creating an exclusive content dedicated to NFT owners only
 
 ## **NFT Explorers**
 
