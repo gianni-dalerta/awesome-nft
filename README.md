@@ -22,11 +22,11 @@ Table of contents
   * [Polkadot and Kusama](#polkadot-and-kusama)
   * [Hedera Token Service](#hedera-token-service)
   * [Tezos](#tezos)
-* [NFT Commmunity](#nft*commmunity)
+* [Blockchain Commmunities](#blockchain*commmunities)
   * [Matic - Polygon](#matic---polygon)
   * [Flow Blockchain](#flow-blockchain)
 * [NFT Commmunity](#nft-commmunity)
-  * [DAOs](#daos)
+  * [Conferences](#conferences)
   * [Discord](#discord)
   * [NFT Enabled Communities](#nft-enabled-communities)
   * [Twitter List](#twitter-list)
@@ -117,6 +117,11 @@ Table of contents
 - [Hedera Token Service Demo: Token configuration, issuance, and transfer](https://www.youtube.com/watch?v=aEFm4bdnsBI)
 
 ## **NFT Commmunity**
+
+### **Conferences**
+* [Miami NFT](https://miaminftweek.com/)
+* [NFT NYC](https://www.nft.nyc/)
+* [NFT | LA](https://www.nftla.live/)
 
 ### **Discord**
 
