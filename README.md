@@ -418,6 +418,7 @@ Table of contents
 
 ## **NFT Marketplaces**
 
+- [Arthouse](https://art.atila.ca)
 - [ART.HAUS](https://art.haus)
 - [Async.art](https://async.art/)
 - [Cargo](https://cargo.build/)
