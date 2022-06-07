@@ -115,6 +115,7 @@ Table of contents
 - [How to mint on KodaDot NFT](https://nft.kodadot.xyz/rmrk/collection/10D77F8B699437BB50-KODA)
 - [How to mint on KodaDot NFT explorer](https://stakenode.medium.com/dont-panic-and-mint-your-nft-s-on-kodadot-kusama-polkadot-first-nft-explorer-4273f789e585)
 - [Hedera Token Service Demo: Token configuration, issuance, and transfer](https://www.youtube.com/watch?v=aEFm4bdnsBI)
+- [How to Build a Multi-Chain NFT Marketplace on Ethereum, Polygon and Binance Smart Chain using Solidity, React, Hardhat and Ethers.js](https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs)
 
 ## **NFT Commmunity**
 
