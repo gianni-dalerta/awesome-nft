@@ -323,7 +323,7 @@ Table of contents
 - [Foundation](https://foundation.app/)
 - [GEN.ART](https://gen.art/)
 - [John Orion Young](https://www.johnorionyoung.com/)
-- [KwownOrigin](https://knownorigin.io/)
+- [KnownOrigin](https://knownorigin.io/)
 - [NFTcuba.art](https://nftcuba.art)
 - [Nifty.ink](https://nifty.ink/) check out my work [My Nifties](https://nifty.ink/artist/0x468ec2cc27b8d5a19e6a81bc2f8deb62430f846b)
 - [Portion](https://portion.io/)
