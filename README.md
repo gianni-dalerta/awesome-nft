@@ -102,6 +102,9 @@ Table of contents
 ### **Hedera Token Service**
 
 - [HTS](https://hedera.com/token-service)
+- [Hashinals (HCS-5)](https://github.com/hiero-ledger/hiero-consensus-specifications/blob/main/docs/standards/hcs-5.md) - Standard for inscribing NFTs using Hiero Consensus Service, inspired by Ordinals
+- [Dynamic Hashinals (HCS-6)](https://github.com/hiero-ledger/hiero-consensus-specifications/blob/main/docs/standards/hcs-6.md) - Framework for NFTs whose content can be updated over time
+- [Smart Hashinals (HCS-7)](https://github.com/hiero-ledger/hiero-consensus-specifications/blob/main/docs/standards/hcs-7.md) - Dynamic NFTs with metadata that updates based on smart contract state
 
 ### **Tezos**
 
