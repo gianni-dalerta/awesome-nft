@@ -82,6 +82,7 @@ Table of contents
 - [EIP-998: Composable Non-Fungible Token Standard](https://eips.ethereum.org/EIPS/eip-998)
 - [EIP-998:WIP (Work-In-Progress) Composable Non-Fungible Token Standard](https://github.com/mattlockyer/composables-998)
 - [EIP-1155: Crypto Items Token Standard](https://github.com/ethereum/eips/issues/1155)
+- [EIP-5192: Chitin — Soulbound Token identity for AI agents](https://chitin.id/) - Soulbound Token (SBT) protocol for AI agent identity on Base L2. ERC-721 compatible, EIP-5192 locked tokens. Non-transferable birth certificates with ERC-8004 agent passports, immutable genesis records on Arweave, and on-chain certificates. ([GitHub](https://github.com/Tiida-Tech/chitin-contracts))
 
 ### **Matic - Polygon**
 
