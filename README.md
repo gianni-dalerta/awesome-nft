@@ -297,6 +297,7 @@ Table of contents
 * [Enjin Coin](https://enjincoin.io/)
 * [Horizon Games](https://horizongames.net/)
 * [Hoard](https://www.hoard.exchange/)
+* [NFTRemix](https://github.com/CorvidLabs/NFTRemix) - Collaborative generative NFT platform on Algorand with community voting, ARC-19 minting via Pera Wallet, and IPFS storage.
 * [Singular by RMRK](https://singular.rmrk.app)
 - [Scafold-Eth](https://github.com/austintgriffith/scaffold-eth)
 - [Rarepress](https://rarepress.org/)
