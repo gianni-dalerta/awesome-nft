@@ -500,3 +500,6 @@ One should know that the Proof of Work (PoW) requires an important amount of ene
 
 - [Estimate the total CO2 footprint for popular CryptoArt platforms](https://github.com/kylemcdonald/cryptoart-footprint)
 - [Carbon.fyi by Offsetra](https://carbon.fyi/)
+
+## Space & Future
+- [GOOM](https://www.goom.space) - The Mars Migration Queue. Get your transferable, immutable queue position (MQID). First-come, first-served. ([GitHub](https://github.com/u9mobile-code/goom))
