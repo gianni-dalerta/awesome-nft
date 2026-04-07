@@ -1,6 +1,7 @@
 # Awesome-NFT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A curated list of awesome Non Fungible Token (NFT, ERC721, ERC1155) frameworks, libraries and software.
 ---
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for NFT workflow orchestration, automated digital asset pipeline management, and multi-agent coordination. MIT licensed.
 ### Author Gianni D'Alerta
 
 * Follow Me on Twitter [@giannidalerta](https://twitter.com/GianniDalerta)
