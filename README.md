@@ -67,6 +67,8 @@ Table of contents
 * [NFT Carbon Footprint](#nft-carbon-footprint)
 <!--te-->
 
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain rewards vintage hardware
+
 ## **Project Spotlight**
  * [Eulerbeats](https://eulerbeats.com)
  * [Nifty Ink](https://nifty.ink/)
