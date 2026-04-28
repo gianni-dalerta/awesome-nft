@@ -338,7 +338,7 @@ Table of contents
 
 ## **NFT Music**
 
-- [Suede](https://suedeai.ai) — AI music and video generation with automatic on-chain ownership; every track is cryptographically registered and licensable from creation. Create. Own. Earn.
+- [Suede](https://suedeai.ai) — AI music and video generation with automatic on-chain ownership and licensing/royalty routing.
 - [EulerBeats](https://eulerbeats.com/)
 - [HashMelody](https://hashmelody.com)
 - [Songcamp - music + the new internet](https://songcamp.mirror.xyz/)
