@@ -369,6 +369,7 @@ Table of contents
 - [NFTNDX.IO](https://nftndx.io)
 - [Momentranks.com](https://momentranks.com)
 - [icy.tools](https://icy.tools)
+- [TG Gifts](https://tggifts.com/floors) - Live floor prices of Telegram collectible gifts (NFTs on TON), with model and backdrop floors, from public Fragment sales.
 
 ## **NFT Portfolios**
 
