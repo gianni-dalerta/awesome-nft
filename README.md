@@ -253,6 +253,7 @@ Table of contents
 - [nftool](https://github.com/alephao/nftool) - A suite of tools for NFT pfp.
 - [NFT API by icy.tools](https://developers.icy.tools/) - A GraphQL NFT API.
 - [OpenChainBench](https://openchainbench.com) — Open-source benchmarks for NFT data APIs: field coverage (name, image, description, floor price) across Moralis, Alchemy, and OpenSea on 50 blue-chip Ethereum collections. CC BY 4.0.
+- [PunkPrice CryptoPunks floor dataset](https://punkprice.com/data?utm_source=awesome-nft) - Daily CryptoPunks floor price since June 2017, rebuilt from the marketplace contract's on-chain events. Free CSV/JSON downloads and API, CC BY 4.0.
 
 ## **NFT Games**
 
